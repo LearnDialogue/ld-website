@@ -1,0 +1,49 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Aysu Ezen-Can</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<name>Aysu Ezen Can</name>
+<name>Aysu Ezen</name>
+<name>A. Ezen</name>
+<name>A. Ezen-Can</name>
+</names>
+<sort_name>EzenCan</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Ph.D. Student</position>
+<email>aezen@ncsu.edu</email>
+<bio>
+I am a Ph.D. student at North Carolina State University, advised by Dr. Kristy Elizabeth Boyer. I am working on dialogue management and natural language understanding for tutorial dialogue systems. My overall goal is to improve automated tutorial dialogue systems and natural language understanding by using data-driven approaches.
+I am working on the JavaTutor Project, a natural language tutorial dialogue project for introductory computer science education.
+
+
+</bio>
+<degrees>
+<degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Computer Science</subject>
+<graduation>in progress</graduation>
+<school>North Carolina State University</school>
+</degree>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Computer Science</subject>
+<!--for in progress degrees, please still list them and put your graduation below as either “in progress” or “expected 2015”. Only put an expected date if it is a firm expected graduation date!-->
+<graduation>2011</graduation>
+<school>Bilkent University, Turkey</school>
+<details>
+<!--You can put the title of a thesis or dissertation as a detail, and you can also put awards such as Summa Cum Laude, and also if you got a minor. You can have many separate detail tags listed. --> 
+</details>
+</degree>
+</degrees>
+<research>
+My research focuses on machine learning techniques for understanding dialogue acts in textual dialogue. 
+&lt;img src="people/aezen/Aysu_figure.jpg"&gt;
+</research>
+</xml>
+

@@ -1,0 +1,38 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Denae M. Ford</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<name>Denae Ford</name>
+<name>Denae Mignon Ford</name>
+<name>D. Ford</name>
+</names>
+<sort_name>Ford</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Undergraduate Researcher</position>
+<email>dford3@ncsu.edu</email>
+<bio>
+I am an undergraduate student at North Carolina State University, pursuing a B.S. in Computer Science. My interests include human computer interaction and intelligent tutoring systems. 
+</bio>
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Computer Science</subject>
+<!--for in progress degrees, please still list them and put your graduation below as either “in progress” or “expected 2015”. Only put an expected date if it is a firm expected graduation date!-->
+<graduation>expected 2014</graduation>
+<school>North Carolina State University</school>
+<details>
+<!--You can put the title of a thesis or dissertation as a detail, and you can also put awards such as Summa Cum Laude, and also if you got a minor. You can have many separate detail tags listed. -->
+</details>
+</degree>
+</degrees>
+<research>
+	My current study is observing the interaction of students with the JavaTutor intelligent tutoring system. My moderation as a tutor will contribute to the students’ learning, engagement, and motivation to study computer science. This study will benefit research in the field of artificial intelligence in education.
+	</research>
+</xml>
+

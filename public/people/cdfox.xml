@@ -1,0 +1,55 @@
+<xml>
+	<names>
+		<name>Christopher Fox</name>
+	</names>
+
+	<sort_name>Fox</sort_name>
+
+	<position>Ph.D. Student</position>
+
+	<email>cdfox@ncsu.edu</email>
+
+	<bio>I am a Ph.D. student in Computer Science advised by Dr. Kristy Elizabeth Boyer. My interests are in user-adaptive dialogue systems, machine learning, and computational linguistics.</bio>
+	
+	<research> 
+
+&lt;p&gt;
+My current project considers how an adaptive, dialogue-based car navigation system can help a driver learn to navigate in a new city and provide summarized route instructions using a model of driver road knowledge.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="people/cdfox/routeteaching.png"&gt; &lt;/img&gt;  &lt;br /&gt;
+The interface for a study of how humans teach a route.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;img src="people/cdfox/drivehistory.png"&gt; &lt;/img&gt;  &lt;br /&gt;
+Logging driving history to use as evidence of road knowledge.
+&lt;/p&gt;
+
+	</research>
+
+	<degrees>
+		<degree>
+			<abbrev>Ph.D.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>in progress</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>M.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2012</graduation>
+			<school>North Carolina State University</school>
+			<details>
+				<detail>Thesis: Following Topics over Time using Epoch Latent Dirichlet Allocation</detail>
+			</details>
+		</degree>
+		<degree>
+			<abbrev>B.S.</abbrev>
+			<subject>Mathematics and Economics</subject>
+			<graduation>2009</graduation>
+			<school>University of Washington</school>
+		</degree>
+	</degrees>
+</xml>

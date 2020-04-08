@@ -1,0 +1,38 @@
+<xml>
+	<names>
+		<name>Lydia G. Pezzullo</name>
+		<name>Lydia Giovanina Pezzullo</name>
+		<name>Lydia Pezzullo</name>
+		<name>L. G. Pezzullo</name>
+		<name>L.G. Pezzullo</name>
+		<name>L G Pezzullo</name>
+		<name>LG Pezzullo</name>
+		<name>L. Pezzullo</name>
+		<name>L Pezzullo</name>
+	</names>
+	<sort_name>Pezzullo</sort_name>
+	<position>Ph.D. Student</position>
+	<program>Human-Centered Computing</program>
+	<school>University of Florida</school>
+	<email>lpezzullo@ufl.edu</email>
+	<bio>Lydia is a Ph.D. student in Human-Centered Computing advised by Dr. Kristy Elizabeth Boyer. Before coming to the University of Florida, she graduated from the Cognitive and Brain Sciences undergraduate program at Tufts University, where she obtained an interdisciplinary background focused on psychology and human-computer interaction. Her research centers on understanding the socioemotional dynamics of collaborative learning in the context of introductory computer science, with a focus on women and students of underrepresented groups.
+	&lt;br /&gt; &lt;br /&gt;
+	She is interested in adapting support for learners with very different beliefs, attitudes, and interaction styles. She also aims to better understand how gender shapes different user experiences during technology-supported learning. 
+	<!--&lt;br /&gt; &lt;br /&gt;
+	Previously, she researched and the design of dialogue interactions with pedagogical agents for middle school science learning. For CHI 2017's Conversational UX Design workshop, she coauthored an accepted position paper, &lt;a href='https://cise.ufl.edu/research/learndialogue/pdf/LearnDialogue-Wiggins-CHI-ConversationalUXWorkshop-2017.pdf' &gt;Conversational UX Design for Kids: Toward Learning Companions&lt;/a&gt;. The paper reviews findings and challenges encountered in designing a natural language dialogue agent to support middle school science learners. It also discusses implications for conversational UX design that serves these users.-->
+	</bio>
+	<degrees>
+		<degree>
+			<abbrev>Ph.D.</abbrev>
+			<subject>Human-Centered Computing</subject>
+			<graduation>Expected 2021</graduation>
+			<school>University of Florida</school>
+		</degree>
+		<degree>
+			<abbrev>B.S.</abbrev>
+			<subject>Cognitive and Brain Sciences</subject>
+			<graduation>2016</graduation>
+			<school>Tufts University</school>
+		</degree>
+	</degrees>
+</xml>

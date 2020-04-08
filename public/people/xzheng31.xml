@@ -1,0 +1,38 @@
+<xml>
+	<names>
+		<name>Xiaoxi Zheng</name>
+		<name>X Zheng</name>
+		<name>Zheng, X</name>
+		<name>Zheng, Xiaoxi</name>
+<!--The first name listed here is the one that will show on your individual page-->
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+	</names>
+	<sort_name>Zheng</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	M.S. Student
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+
+<degrees>
+                <degree>
+
+                        <abbrev>B.S.</abbrev>
+                        <subject>Digital Arts &amp; Sciences</subject>
+                        <graduation>2017</graduation>
+                        <school>University of Florida</school>
+</degree>
+        </degrees>
+
+
+	<position>Undergraduate Researcher</position>
+	<program>Digital Art &amp; Sciences</program>
+	<school>University of Florida</school>
+	<email>shoush0713@ufl.edu</email>
+	<bio>
+		Xiaoxi Zheng an undergraduate student advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. Her research interests include computer science education and interaction design.
+	</bio>
+</xml>
+

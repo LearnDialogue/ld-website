@@ -1,0 +1,43 @@
+<xml>
+	<names>
+		<name>Eun Young Ha</name>
+		<name>Eunyoung Ha</name>
+		<name>Eun Ha</name>
+		<name>Eun Y. Ha</name>
+	</names>
+	<sort_name>Ha</sort_name>
+	<position>Postdoctoral Research Associate</position>
+	<email>eha@ncsu.edu</email>
+	<bio>I am a postdoctoral research associate in the Department of Computer Science at 
+	NCSU. My research interests lie in artificial intelligence 
+	and computational linguistics. I am particularly interested in applying statistical machine 
+	learning techniques for various research problems within the area of artificial intelligence and 
+	computational linguistics.
+	</bio>
+	<degrees>
+		<degree>
+			<abbrev>Ph.D.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2011</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>M.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2008</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>Undergraduate Study</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2001-2003</graduation>
+			<school>Texas A&amp;M University</school>
+		</degree>
+		<degree>
+			<abbrev>B.A.</abbrev>
+			<subject>English Language and Literature</subject>
+			<graduation>1995</graduation>
+			<school>Yonsei University, Seoul, South Korea</school>
+		</degree>
+	</degrees>
+</xml>

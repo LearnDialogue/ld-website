@@ -1,0 +1,40 @@
+<xml>
+	<names>
+		<name>Jennifer Tsan</name>
+		<name>Jen Tsan</name>
+	</names>
+	<sort_name>Tsan</sort_name>
+	<position>Ph.D. Student</position>
+	<program>Computer Science</program>
+	<school>North Carolina State University</school>
+	<email>jtsan@ncsu.edu</email>
+	<bio>Jennifer Tsan is a student of Dr. Collin Lynch and Dr. Kristy Boyer. Her research interests include computer science education, advanced learning technologies, and spoken dialogue systems. Her overarching research goal is to understand how elementary students collaborate while they program and support them in order to improve their learning experience.
+	&lt;p&gt;Jennifer is currently working on the Friendly Learning Environment for Kids’ Computer Science (FLECKS) project. The goal of the project is to build an intelligent, adaptive system to support elementary students as they collaborate to solve computer science problems. For this project, Jennifer is developing curricula, teaching a class, and collecting data of elementary students as they pair program. Additionally, she is conducting research on existing block-based programming environments to determine which technology is optimal for the audience. Finally, Jennifer is conducting qualitative analyses of the pair programming data. She uses videos, audio, and screen recordings to understand the students’ pair programming process and identify areas that prove to be challenging to children working in this domain.
+	<!--&lt;p&gt;At the International Computing Education Research (ICER) conference in 2015, Jennifer participated in the &lt;a href='https://cise.ufl.edu/research/learndialogue/pdf/LearnDialogue-Tsan-ICER-DC-2015.pdf' &gt;doctoral consortium&lt;/a&gt;. In the same year, Jennifer attended the Artificial Intelligence in Education (AIED) &lt;a href='https://cise.ufl.edu/research/learndialogue/pdf/LearnDialogue-Tsan-AIED-DC-2015.pdf' &gt;doctoral consortium&lt;/a&gt;. She also attended a &lt;a href='https://cise.ufl.edu/research/learndialogue/pdf/LearnDialogue-Tsan-CSCL-DC-2017.pdf' &gt;doctoral consortium&lt;/a&gt; at the Computer Supported Collaborative Learning (CSCL) conference in 2017.-->
+	&lt;p&gt;Before attending NC State, Jennifer attended West Chester University of Pennsylvania and graduated with a Computer Science degree.
+	</bio>
+	<degrees>
+		<degree>
+			<abbrev>Ph.D.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>Expected 2020</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>M.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2018</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>B.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2014</graduation>
+			<school>West Chester University</school>
+			<details>
+				<detail>Computer Security Certificate</detail>
+				<detail>Summa Cum Laude</detail>
+			</details>
+		</degree>
+	</degrees>
+</xml>

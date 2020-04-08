@@ -1,0 +1,39 @@
+<xml>
+	<names>
+	<name>Allison G. Martínez-Arocho</name>
+	<name>Allison G. Martinez-Arocho</name>
+	<name>Allison G. Martinez</name>
+	<name>Allison Martinez-Arocho</name>
+	<name>Allison Arocho</name>
+	<name>Allison Martinez</name>
+</names>
+<sort_name>Martinez-Arocho</sort_name>
+<position>Undergraduate Researcher</position>
+<email>agmarti5@ncsu.edu</email>
+<bio>
+
+	&lt;p&gt;I am a junior undergraduate student at Meredith College, 
+	but I started doing research at the LearnDialogue group on May 2013. 
+	My research work consists of developing curricula for projects that aim
+	to take computer science education to middle school and elementary school classrooms. 
+	It is a challenging and exciting process to create content where students will develop
+	computational thinking skills while appreciating the social relevance of computer science. &lt;/p&gt;
+	&lt;p&gt;My previous work experiences have contributed to my interest in computer science education. 
+	I have worked as a T.A. for a beginning programming class in Java, where I offered tutoring, reviewing sessions, and saw students improve up to 3 letter grades with my help. 
+	Also, I have worked as the BitLab administrator at Meredith College, where I have had the freedom to provide a vision for our main computer science classroom in the hopes of encouraging
+	more students to become interested in the major.&lt;/p&gt;
+
+</bio>
+<degrees>
+	<degree>
+		<abbrev>B.S.</abbrev>
+		<subject>Computer Science</subject>
+		<graduation>expected 2015</graduation>
+		<school>Meredith College</school>
+		<details>
+			<detail>Minor in Statistics</detail>
+		</details>
+	</degree>
+</degrees>
+
+</xml>

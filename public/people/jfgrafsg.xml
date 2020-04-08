@@ -1,0 +1,32 @@
+<xml>
+	<names>
+		<name>Joseph F. Grafsgaard</name>
+	</names>
+	<sort_name>Grafsgaard</sort_name>
+	<position>Postdoctoral Research Scholar</position>
+	<email>jfgrafsg@ncsu.edu</email>
+	<bio>
+	I am a postdoc working with Dr. James C. Lester and Dr. Kristy Elizabeth Boyer. My research interests revolve around affective computing (studying the role of emotions in human-computer interaction) with current emphasis on affect-sensitive intelligent tutoring systems, recognition and understanding of nonverbal behavior (e.g., facial expression, gesture, posture), and sequential modeling of multimodal affective interaction.
+	</bio>
+	<degrees>
+		<degree>
+			<abbrev>Ph.D.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2014</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>M.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2012</graduation>
+			<school>North Carolina State University</school>
+		</degree>
+		<degree>
+			<abbrev>B.S.</abbrev>
+			<subject>Computer Science</subject>
+			<graduation>2005</graduation>
+			<school>University of Minnesota – Twin Cities</school>
+		</degree>
+	</degrees>
+</xml>
+

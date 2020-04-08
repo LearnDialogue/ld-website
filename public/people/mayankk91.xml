@@ -1,0 +1,28 @@
+<xml>
+        <names>
+                <name>Mayank Kulkarni</name>
+                <name>Mayank R Kulkarni</name>
+                <name>Mayank R. Kulkarni</name>
+        </names>
+		<!-- The different names are to account for the different combinations in which your name could appear in publications or listings. Please account for all variations. -->
+        <sort_name>Kulkarni</sort_name>
+        <position>Graduate Researcher</position>
+	<program>Computer Science</program>
+	<school>University of Florida</school>
+        <email>mayank@learndialogue.org</email>
+        <bio>Mayank Kulkarni is a Master's student advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. His research interest focuses on Deep Learning for natural language processing. His areas of research include question answering systems and automatic speech recognition for programming based dialog.</bio>
+        <degrees>
+                <degree>
+                        <abbrev>M.S.</abbrev>
+                        <subject>Computer Science</subject>
+                        <graduation>2018</graduation>
+                        <school>University of Florida</school>
+                </degree>
+                <degree>
+                        <abbrev>B.Tech.</abbrev>
+                        <subject>Computer Engineering</subject>
+                        <graduation>2014</graduation>
+                        <school>College of Engineering, Pune, India</school>
+                </degree>
+        </degrees>
+</xml>

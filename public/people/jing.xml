@@ -1,0 +1,38 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Jing Low</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<name>Jing Low</name>
+<name>J. Low</name>
+<name>J Low</name>
+</names>
+<sort_name>Low</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Undergraduate Researcher</position>
+<program>Computer Science, Linguistics</program>
+<school>University of Florida</school>
+<email>low.jing@ufl.edu</email>
+<bio>
+Jing is an undergraduate researcher in computer science, double majoring in Computer Science and Linguistics, mentored by Ph.D. student Joseph Wiggins. Her current research aims to improve dialogue agent design in a game-based learning environment. 
+</bio>
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Computer Science</subject>
+<graduation>Expected 2021</graduation>
+<school>University of Florida</school>
+</degree>
+<degree>
+<abbrev>B.A.</abbrev>
+<subject>Linguistics</subject>
+<graduation>Expected 2021</graduation>
+<school>University of Florida</school>
+</degree>
+</degrees>
+</xml>

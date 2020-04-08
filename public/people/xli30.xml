@@ -1,0 +1,49 @@
+<xml>
+	<names>
+		<name>Xiaolong Li</name>
+		<name>X Li</name>
+		<name>Li, X</name>
+		<name>Li, Xiaolong</name>
+<!--The first name listed here is the one that will show on your individual page-->
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+	</names>
+	<sort_name>Li</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Ph.D. Candidate</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>xiaolongl@ufl.edu</email>
+<bio>
+I am a Ph.D. student advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. My research interest focuses on natural language processing. Currently I am working on language grounding in tutorial dialogue.
+</bio>
+<degrees>
+ <degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Computer Science</subject>
+<graduation>in progress</graduation>
+<school>University of Florida</school>
+<details>
+</details>
+</degree>
+<degree>
+<abbrev>M.S.</abbrev>
+<subject>Computer Science</subject>
+<graduation>2012</graduation>
+<school>Zhejiang University, China</school>
+<details>
+</details>
+</degree>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Computer Science</subject>
+<graduation>2008</graduation>
+<school>Northwestern Polytechnical University, China</school>
+</degree>
+</degrees>
+</xml>
+

@@ -1,0 +1,39 @@
+<xml>
+<!--The first name listed here is the one that will show on your individual page-->
+<names>
+	<name>Alexander R. Webber</name>
+	<name> Alexander R Webber</name>
+	<name>Alex R. Webber</name>
+	<name>A. R. Webber</name>
+	<name>Alex Webber</name>
+</names>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<sort_name>Webber</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Ph.D. Student</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>alexwebber@ufl.edu</email>
+<bio>
+Alex is a Ph.D. student advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering. Currently, he is working on the development of a co-creative dialogue system for the EarSketch project.
+</bio>
+<degrees>
+<degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Computer Science</subject>
+<graduation>Expected 2024</graduation>
+<school>University of Florida</school>
+</degree>
+<degree>
+<abbrev>B.A.</abbrev>
+<subject>Linguistics</subject>
+<graduation>2015</graduation>
+<school>University of Florida</school>
+</degree>
+</degrees>
+</xml>

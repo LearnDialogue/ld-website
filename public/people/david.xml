@@ -1,0 +1,25 @@
+<xml>
+<names>
+<name>David Austin Fussell</name>
+<name>David Fussell</name>
+<name>David A. Fussell</name>
+</names>
+<sort_name>Fussell</sort_name>
+
+	
+<position>B.S. Student</position>
+<program>Chemical Engineering</program>
+<school>University of Florida</school>
+<email>fussyfuss@ufl.edu</email>
+<bio>
+David is an undergraduate researcher in computer science, majoring in Chemical Engineering, mentored by Ph.D. student Mehmet Celepkolu. His current research aims to improve communication during pair programming through an interactive graphing system. 
+</bio>
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Chemical Engineering</subject>
+<graduation>Expected 2019</graduation>
+<school>University of Florida</school>
+</degree>
+</degrees>
+</xml>
