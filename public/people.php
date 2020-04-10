@@ -59,6 +59,36 @@
 	
 		<!-- Graduate Students-->
 		<ul class="people_list">
+		
+		    <li><a href="person.php?id=mcelepk">
+                <img class="people_img" 
+                src="people/mcelepk.jpg" 
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
+                Ph.D. Candidate
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+
+			<li><a href="person.php?id=shalaunda">
+                <img class="people_img" 
+                src="people/shalaunda.jpg" 
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Shalaunda Reeves<br></span>
+                Ph.D. Candidate
+                <br>Educational Technology
+                <br>University of Florida</p>
+            </a></li>
+            
+            <li><a href="person.php?id=jtsan">
+				<img class="people_img" 
+				src="people/jtsan.jpg" 
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Jennifer Tsan<br></span>
+				Ph.D. Candidate
+				<br>Computer Science
+				<br>North Carolina State University</p>
+			</a></li>
 
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img" 
@@ -69,16 +99,6 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
-
-			<li><a href="person.php?id=mcelepk">
-                <img class="people_img" 
-                src="people/mcelepk.jpg" 
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
-                Ph.D. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
 		
 			<li><a href="person.php?id=gloria">
                 <img class="people_img" 
@@ -99,16 +119,6 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-            
-            <li><a href="person.php?id=shalaunda">
-                <img class="people_img" 
-                src="people/shalaunda.jpg" 
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Shalaunda Reeves<br></span>
-                Ph.D. Student 
-                <br>Educational Technology
-                <br>University of Florida</p>
-            </a></li>
 		
 			<li><a href="person.php?id=fjrodri3">
 				<img class="people_img" 
@@ -118,16 +128,6 @@
 				Ph.D. Student 
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
-			</a></li>
-			
-			<li><a href="person.php?id=jtsan">
-				<img class="people_img" 
-				src="people/jtsan.jpg" 
-				alt="Person">
-				<p class="people_txt"><span class="people_name">Jennifer Tsan<br></span>
-				Ph.D. Student
-				<br>Computer Science
-				<br>North Carolina State University</p>
 			</a></li>
 			
             <li><a href="person.php?id=alex">
