@@ -43,6 +43,16 @@
 				<br>University of Florida</p>
 			</a></li>
 			
+		        <li><a href="person.php?id=mcelepk">
+                		<img class="people_img" 
+                		src="people/mcelepk.jpg" 
+                		alt="Person">
+                		<p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
+                		Research Scientist
+                		<br>Computer Science
+                		<br>University of Florida</p>
+            		</a></li>
+			
 			<li><a href="person.php?id=jule">
 				<img class="people_img" 
 				src="people/jule.jpg" 
@@ -59,28 +69,8 @@
 	
 		<!-- Graduate Students-->
 		<ul class="people_list">
-		
-		    <li><a href="person.php?id=mcelepk">
-                <img class="people_img" 
-                src="people/mcelepk.jpg" 
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
-                Ph.D. Candidate
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
-
-			<li><a href="person.php?id=shalaunda">
-                <img class="people_img" 
-                src="people/shalaunda.jpg" 
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Shalaunda Reeves<br></span>
-                Ph.D. Candidate
-                <br>Educational Technology
-                <br>University of Florida</p>
-            </a></li>
             
-            <li><a href="person.php?id=jtsan">
+            		<li><a href="person.php?id=jtsan">
 				<img class="people_img" 
 				src="people/jtsan.jpg" 
 				alt="Person">
@@ -230,6 +220,8 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
+			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
+			<tr><td>Shalaunda Reeves</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018</td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
 			<tr><td>Aysu Ezen-Can</td><td>Ph.D., 2015</td><td>North Carolina State University</td></tr>
