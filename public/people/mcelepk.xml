@@ -5,7 +5,7 @@
         </names>
 		<!-- The different names are to account for the different combinations in which your name could appear in publications or listings. Please account for all variations. -->
         <sort_name>Celepkolu</sort_name>
-        <position>Ph.D. Candidate</position>
+        <position>Research Scientist</position>
         <program>Computer Science</program>
 	<school>University of Florida</school>
 	<email>mckolu@ufl.edu</email>
@@ -15,7 +15,7 @@
                 <degree>
                         <abbrev>Ph.D.</abbrev>
                         <subject>Computer Science</subject>
-                        <graduation>Expected 2020</graduation>
+                        <graduation>2020</graduation>
                         <school>University of Florida</school>
 			<details>
 			</details>        
