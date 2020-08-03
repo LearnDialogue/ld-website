@@ -16,8 +16,8 @@
 	Undergraduate Researcher
 	Postdoctoral Research Associate
 -->
-<position>M.S. Student</position>
-<program>Information Systems</program>
+<position>Ph.D. Student</position>
+<program>Human-Centered Computing</program>
 <school>University of Florida</school>
 <email>gkatuka@ufl.edu</email>
 <bio>
@@ -25,9 +25,15 @@ Gloria Ashiya Katuka is a M.S. student advised by Dr. Kristy Boyer in the Depart
 </bio>
 <degrees>
 <degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Human-Centered Computing</subject>
+<graduation>Expected 2024</graduation>
+<school>University of Florida</school>
+</degree>
+<degree>
 <abbrev>M.S.</abbrev>
 <subject>Information Systems</subject>
-<graduation>Expected 2020</graduation>
+<graduation>2020</graduation>
 <school>University of Florida</school>
 </degree>
 <degree>
