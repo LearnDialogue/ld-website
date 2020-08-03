@@ -105,8 +105,8 @@
                 src="people/gloria.jpg" 
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
-                M.S. Student 
-                <br>Information Systems
+                Ph.D. Student 
+                <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
             
