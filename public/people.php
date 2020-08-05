@@ -146,16 +146,6 @@
         
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
-		                
-            <li><a href="person.php?id=mohona">
-                <img class="people_img" 
-                src="people/mohona.jpg" 
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Mohona Ahmed<br></span>
-                B.S. Student 
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
             
             <li><a href="person.php?id=tessa">
                 <img class="people_img" 
