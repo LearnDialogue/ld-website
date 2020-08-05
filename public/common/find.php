@@ -9,7 +9,7 @@ if(!function_exists("simplexml_load_file")){
  }
 }
 
- 
+
 //finds the picture for a given unity ID
 function findPicture($userID) {
 	$imglocation = 'people/' . $userID;
@@ -21,13 +21,13 @@ function findPicture($userID) {
 			return $file;
 		}
 	}
-	
+
 	return 'img/people/person.png';
 }
 
 function getXML($userID){
 	$file = 'people/' . $userID . '.xml';
-	
+
 	if(file_exists($file)){
 		return simplexml_load_file($file);
 	}
@@ -69,7 +69,7 @@ function findSortInfo($userID) {
 
 function getProjectXML($projectID){
 	$file = 'projects/' . $projectID . '.xml';
-	
+
 	if(file_exists($file)){
 		return simplexml_load_file($file);
 	}
@@ -85,7 +85,7 @@ function findProjectPicture($projectID) {
 			return $file;
 		}
 	}
-	
+
 	return 'people/person.png';
 }
 
@@ -97,11 +97,11 @@ function hasPublication($userID) {
 		"akvail",
 		"cdfox",
 		"cmmitch2",
-		"eha", 
+		"eha",
 		"fjrodri3",
 		"jbwiggi3",
-		"jfgrafsg", 
-		"keboyer", 
+		"jfgrafsg",
+		"keboyer",
 		"psbuffum",
 		"xli30",
 		"jtsan",
@@ -112,8 +112,9 @@ function hasPublication($userID) {
 		"mohona",
 		"alex",
 		"david",
-		"aisha");
-		
+		"aisha",
+    "alexandra");
+
 	foreach($pubNames as $pubName){
 		if($userID == $pubName){
 			return true;
