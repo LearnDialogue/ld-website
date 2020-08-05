@@ -18,44 +18,44 @@
 		<!-- Director -->
 		<ul class="people_list">
 			<li><a href="person.php?id=keboyer">
-				<img class="people_img" 
-				src="people/keboyer.png" 
+				<img class="people_img"
+				src="people/keboyer.png"
 				alt="Kristy Elizabeth Boyer">
 				<p class="people_txt"><span class="people_name">Kristy Elizabeth Boyer<br></span>
 				Associate Professor
 				<br>Computer Science
 				<br>University of Florida</p>
-			</a></li>	
+			</a></li>
 		</ul>
-		
-		<p class="clear">&nbsp;</p>	
+
 		<p class="clear">&nbsp;</p>
-		
+		<p class="clear">&nbsp;</p>
+
 		<!-- Staff -->
-		<ul class="people_list">			
+		<ul class="people_list">
 			<li><a href="person.php?id=timothy">
-				<img class="people_img" 
-				src="people/timothy.jpg" 
+				<img class="people_img"
+				src="people/timothy.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Timothy B. Brown<br></span>
 				Research Coordinator
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+
 		        <li><a href="person.php?id=mcelepk">
-                		<img class="people_img" 
-                		src="people/mcelepk.jpg" 
+                		<img class="people_img"
+                		src="people/mcelepk.jpg"
                 		alt="Person">
                 		<p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
                 		Research Scientist
                 		<br>Computer Science
                 		<br>University of Florida</p>
             		</a></li>
-			
+
 			<li><a href="person.php?id=jule">
-				<img class="people_img" 
-				src="people/jule.jpg" 
+				<img class="people_img"
+				src="people/jule.jpg"
 				alt="Julianna Martinez">
 				<p class="people_txt"><span class="people_name">Julianna Martinez Ruiz<br></span>
 				Research Facilitator
@@ -63,16 +63,16 @@
 				<br>University of Florida</p>
 			</a></li>
 		</ul>
-		
-		<p class="clear">&nbsp;</p>	
+
 		<p class="clear">&nbsp;</p>
-	
+		<p class="clear">&nbsp;</p>
+
 		<!-- Graduate Students-->
 		<ul class="people_list">
-            
+
             		<li><a href="person.php?id=jtsan">
-				<img class="people_img" 
-				src="people/jtsan.jpg" 
+				<img class="people_img"
+				src="people/jtsan.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Jennifer Tsan<br></span>
 				Ph.D. Candidate
@@ -81,129 +81,139 @@
 			</a></li>
 
 			<li><a href="person.php?id=jbwiggi3">
-				<img class="people_img" 
-				src="people/jbwiggi3.jpg" 
+				<img class="people_img"
+				src="people/jbwiggi3.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
-				Ph.D. Candidate 
+				Ph.D. Candidate
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
-		
-			<li><a href="person.php?id=gloria">
-                <img class="people_img" 
-                src="people/gloria.jpg" 
+
+			<li><a href="person.php?id=rich">
+					<img class="people_img"
+					src="people/rich.jpg"
+					alt="Person">
+					<p class="people_txt"><span class="people_name">Richard T. Bex<br></span>
+					Ph.D. Student
+					<br>Science Education
+					<br>University of Florida</p>
+			</a></li>
+
+						<li><a href="person.php?id=gloria">
+                <img class="people_img"
+                src="people/gloria.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
-                Ph.D. Student 
+                Ph.D. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
-            
+
             <li><a href="person.php?id=yingbo">
-                <img class="people_img" 
-                src="people/yingbo.jpg" 
+                <img class="people_img"
+                src="people/yingbo.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Yingbo Ma<br></span>
-                Ph.D. Student 
+                Ph.D. Student
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-		
+
 			<li><a href="person.php?id=fjrodri3">
-				<img class="people_img" 
-				src="people/fjrodri3.jpg" 
+				<img class="people_img"
+				src="people/fjrodri3.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Fernando J. Rodríguez<br></span>
-				Ph.D. Student 
+				Ph.D. Student
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
-			
+
             <li><a href="person.php?id=alex">
-                <img class="people_img" 
-                src="people/alex.jpg" 
+                <img class="people_img"
+                src="people/alex.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Alexander R. Webber<br></span>
-                Ph.D. Student 
+                Ph.D. Student
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-                        
+
             <li><a href="person.php?id=kprice">
-                <img class="people_img" 
-                src="people/kprice.jpg" 
+                <img class="people_img"
+                src="people/kprice.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
-                Ph.D. Student 
+                Ph.D. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
 		</ul>
-        
-        <p class="clear">&nbsp;</p>    
+
+        <p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
-        
+
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
-            
+
             <li><a href="person.php?id=tessa">
-                <img class="people_img" 
-                src="people/tessa.jpg" 
+                <img class="people_img"
+                src="people/tessa.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Tessa Bohn-Carmichael<br></span>
-                BFA Student 
+                BFA Student
                 <br>Fine Arts, Drawing
                 <br>University of Florida</p>
             </a></li>
-            
+
              <li><a href="person.php?id=alexandra">
-                <img class="people_img" 
-                src="people/alexandra.jpg" 
+                <img class="people_img"
+                src="people/alexandra.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Alexandra Dibble<br></span>
-                B.S. Student 
+                B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-            
+
             <li><a href="person.php?id=aisha">
-                <img class="people_img" 
-                src="people/aisha.jpg" 
+                <img class="people_img"
+                src="people/aisha.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Aisha Chung Galdo<br></span>
-                B.A. Student 
+                B.A. Student
                 <br>Education Sciences
                 <br>University of Florida</p>
             </a></li>
-            
+
             <li><a href="person.php?id=jing">
-                <img class="people_img" 
-                src="people/jing.jpg" 
+                <img class="people_img"
+                src="people/jing.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Jing Low<br></span>
-                B.S. Student 
+                B.S. Student
                 <br>Computer Science, Linguistics
                 <br>University of Florida</p>
             </a></li>
-            
+
             <li><a href="person.php?id=alexia">
-                <img class="people_img" 
-                src="people/alexia.png" 
+                <img class="people_img"
+                src="people/alexia.png"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Alexia Martin<br></span>
-                B.S. Student 
+                B.S. Student
                 <br>Computer Engineering
                 <br>University of Florida</p>
             </a></li>
-                        
-		</ul>
-			
 
-		
+		</ul>
+
+
+
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
-		
+
 		<h2>alumni</h2>
 		<table class="alumni_list">
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
@@ -231,7 +241,7 @@
 			<tr><td>Carlos Muñiz</td><td>B.S., 2017</td><td>University of Florida</td></tr>
 			<tr><td>Xiaoxi Zheng</td><td>B.S., 2017</td><td>University of Florida</td></tr>
 			<tr><td>Lydia Pezzullo</td><td>B.S., 2016</td><td>Tufts University</td></tr>
-			<tr><td>Alexandria Vail</td><td>B.S., 2015</td><td>North Carolina State University</td></tr>           
+			<tr><td>Alexandria Vail</td><td>B.S., 2015</td><td>North Carolina State University</td></tr>
 			<tr><td>Allison G. Martínez-Arocho</td><td>B.S., 2015</td><td>Meredith College</td></tr>
 			<tr><td>Denae Ford</td><td>B.S., 2014</td><td>North Carolina State University</td></tr>
 			<tr><td>Caitlin Foster</td><td>B.S., 2013</td><td>North Carolina State University</td></tr>
@@ -240,7 +250,7 @@
 		</table>
 
 		<p class="clear">&nbsp;</p>
-		
+
 <?php include 'common/footer.html'; ?>
 </body>
 </html>

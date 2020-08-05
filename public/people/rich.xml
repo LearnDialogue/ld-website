@@ -1,0 +1,44 @@
+<xml>
+        <names>
+                <name>Richard T. Bex</name>
+<name>Richard T. Bex II</name>
+<name>Richard Bex</name>
+        </names>
+		<!-- The different names are to account for the different combinations in which your name could appear in publications or listings. Please account for all variations. -->
+        <sort_name>Bex</sort_name>
+        <position>Ph.D. Student</position>
+        <program>Science Education</program>
+	<school>University of Florida</school>
+	<email>rbex@ufl.edu</email>
+<bio>Richard Bex is a Ph.D. student in Science Education in the School of Teaching and Learning. He is advised by Dr. Kent Crippen. His research focuses on virtual STEM education contexts, science communication, citizen science, and instructional design. Currently, Richard is part of the ENGAGE Project team.</bio>
+
+    <degrees>
+                <degree>
+                        <abbrev>Ph.D.</abbrev>
+                        <subject>Science Education</subject>
+                        <graduation>Expected 2021</graduation>
+                        <school>University of Florida</school>
+			<details>
+			</details>        
+        	</degree>
+
+		<degree>
+                        <abbrev>M.Ed.</abbrev>
+                        <subject>Secondary Education</subject>
+                        <graduation>2016</graduation>
+                        <school>Lehigh University</school>
+                        <details>
+                        </details>
+                </degree>
+
+		<degree>
+                        <abbrev>B.A.</abbrev>
+                        <subject>Environmental Geoscience</subject>
+                        <graduation>2011</graduation>
+                        <school>West Virginia University</school>
+                        <details>
+                        </details>
+                </degree>
+    </degrees>
+
+</xml>
