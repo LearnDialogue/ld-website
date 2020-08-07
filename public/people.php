@@ -100,6 +100,16 @@
 					<br>University of Florida</p>
 			</a></li>
 
+			<li><a href="person.php?id=amanda">
+					<img class="people_img"
+					src="people/amanda.jpg"
+					alt="Person">
+					<p class="people_txt"><span class="people_name">Amanda E Griffifth<br></span>
+					Ph.D. Student
+					<br>Human-Centered Computing
+					<br>University of Florida</p>
+			</a></li>
+
 						<li><a href="person.php?id=gloria">
                 <img class="people_img"
                 src="people/gloria.jpg"
