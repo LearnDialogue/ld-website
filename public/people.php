@@ -102,9 +102,9 @@
 
 			<li><a href="person.php?id=amanda">
 					<img class="people_img"
-					src="people/amanda.jpg"
+					src="people/amanda.JPG"
 					alt="Person">
-					<p class="people_txt"><span class="people_name">Amanda E Griffifth<br></span>
+					<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
 					Ph.D. Student
 					<br>Human-Centered Computing
 					<br>University of Florida</p>
@@ -138,6 +138,16 @@
 				Ph.D. Student
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
+			</a></li>
+
+			<li><a href="person.php?id=xiaoyi">
+					<img class="people_img"
+					src="people/xiaoyi.JPG"
+					alt="Person">
+					<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
+					Ph.D. Student
+					<br>Human-Centered Computing
+					<br>University of Florida</p>
 			</a></li>
 
             <li><a href="person.php?id=alex">
