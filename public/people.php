@@ -242,7 +242,7 @@
 			<tr><td></td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Shalaunda Reeves</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
-			<tr><td>Xiaolong Li</td><td>Ph.D., 2018</td><td>University of Florida</td></tr>
+			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">link</a> </td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
 			<tr><td>Aysu Ezen-Can</td><td>Ph.D., 2015</td><td>North Carolina State University</td></tr>
 			<tr><td>Joseph Grafsgaard</td><td>Ph.D., 2014</td><td>North Carolina State University</td></tr>
