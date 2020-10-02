@@ -62,6 +62,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+			
+			<li><a href="person.php?id=tessa">
+                		<img class="people_img"
+                		src="people/tessa.jpg"
+                		alt="Person">
+                		<p class="people_txt"><span class="people_name">Tessa Bohn-Carmichael<br></span>
+                		Graphical and Digital Artist
+                		<br>Computer Science
+                		<br>University of Florida</p>
+            		</a></li>
 		</ul>
 
 		<p class="clear">&nbsp;</p>
@@ -167,16 +177,6 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 
-            <li><a href="person.php?id=tessa">
-                <img class="people_img"
-                src="people/tessa.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Tessa Bohn-Carmichael<br></span>
-                BFA Student
-                <br>Fine Arts, Drawing
-                <br>University of Florida</p>
-            </a></li>
-
              <li><a href="person.php?id=alexandra">
                 <img class="people_img"
                 src="people/alexandra.jpg"
@@ -236,6 +236,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
+			<tr><td>Tessa Bohn-Carmichael</td><td>B.F.A., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Jing Low</td><td>B.S., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Lara Baigorria</td><td>B.S., 2019</td><td>University of Florida</td></tr>
 			<tr><td>Yingwen Huang</td><td>B.S., 2019</td><td>University of Florida</td></tr>
