@@ -197,16 +197,6 @@
                 <br>University of Florida</p>
             </a></li>
 
-            <li><a href="person.php?id=jing">
-                <img class="people_img"
-                src="people/jing.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Jing Low<br></span>
-                B.S. Student
-                <br>Computer Science, Linguistics
-                <br>University of Florida</p>
-            </a></li>
-
             <li><a href="person.php?id=alexia">
                 <img class="people_img"
                 src="people/alexia.png"
@@ -246,6 +236,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
+			<tr><td>Jing Low</td><td>B.S., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Lara Baigorria</td><td>B.S., 2019</td><td>University of Florida</td></tr>
 			<tr><td>Yingwen Huang</td><td>B.S., 2019</td><td>University of Florida</td></tr>
 			<tr><td>Carlos Muñiz</td><td>B.S., 2017</td><td>University of Florida</td></tr>
