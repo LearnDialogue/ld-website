@@ -187,7 +187,7 @@
                 <br>University of Florida</p>
             </a></li>
 
-            <li><a href="person.php?id=aisha">
+            <!--li><a href="person.php?id=aisha">
                 <img class="people_img"
                 src="people/aisha.jpg"
                 alt="Person">
@@ -195,7 +195,7 @@
                 B.A. Student
                 <br>Education Sciences
                 <br>University of Florida</p>
-            </a></li>
+            </a></li-->
 
             <li><a href="person.php?id=alexia">
                 <img class="people_img"
@@ -221,7 +221,6 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
-			<tr><td>Shalaunda Reeves</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
 			<tr><td>Aysu Ezen-Can</td><td>Ph.D., 2015 - <a href="https://repository.lib.ncsu.edu/handle/1840.16/10470">Dissertation</a> </td><td>North Carolina State University</td></tr>
