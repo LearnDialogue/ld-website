@@ -113,7 +113,8 @@ function hasPublication($userID) {
 		"alex",
 		"david",
 		"aisha",
-    "alexandra");
+    		"alexandra",
+		"alexia");
 
 	foreach($pubNames as $pubName){
 		if($userID == $pubName){
