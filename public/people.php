@@ -85,7 +85,7 @@
 				src="people/jtsan.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Jennifer Tsan<br></span>
-				Ph.D. Candidate
+				Ph.D.
 				<br>Computer Science
 				<br>North Carolina State University</p>
 			</a></li>
