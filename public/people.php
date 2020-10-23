@@ -177,7 +177,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 
-             <li><a href="person.php?id=alexandra">
+             <!--li><a href="person.php?id=alexandra">
                 <img class="people_img"
                 src="people/alexandra.jpg"
                 alt="Person">
@@ -185,7 +185,7 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li>
+            </a></li-->
 
             <!--li><a href="person.php?id=aisha">
                 <img class="people_img"
