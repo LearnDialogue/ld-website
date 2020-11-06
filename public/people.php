@@ -71,15 +71,6 @@
 		<!-- Graduate Students-->
 		<ul class="people_list">
 
-            		<li><a href="person.php?id=jtsan">
-				<img class="people_img"
-				src="people/jtsan.jpg"
-				alt="Person">
-				<p class="people_txt"><span class="people_name">Jennifer Tsan<br></span>
-				Ph.D.
-				<br>Computer Science
-				<br>North Carolina State University</p>
-			</a></li>
 
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
@@ -202,6 +193,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
+			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020</td><td>North Carolina State University</td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
