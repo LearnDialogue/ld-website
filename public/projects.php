@@ -26,14 +26,6 @@
 			
 			</li>
 			
-			<li>
-				<a href="project.php?id=Engage">
-				<img src="projects/Engage.png"
-					alt="Engage">
-				<span class="thumb_txt"><h3>ENGAGE</h3>
-					Immersive game-based learning curricular strategy for infusing computational thinking and computational fluency into middle school science. (Funding: CNS-1138497, DRL-1640141)</span>
-				</a>
-			</li>
 			
 			<li>
 				
@@ -80,6 +72,16 @@
 			
 			<!-- Completed projects -->
 			<li><h2>completed projects</h2></li>
+			
+			<li>
+				<a href="project.php?id=Engage">
+				<img src="projects/Engage.png"
+					alt="Engage">
+				<span class="thumb_txt"><h3>ENGAGE</h3>
+					Immersive game-based learning curricular strategy for infusing computational thinking and computational fluency into middle school science. (Funding: CNS-1138497, DRL-1640141)</span>
+				</a>
+			</li>
+			
 			<li>
 				<a href="project.php?id=aim">
 				<img src="projects/aim.png"
