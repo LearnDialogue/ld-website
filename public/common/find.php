@@ -92,28 +92,13 @@ function findProjectPicture($projectID) {
 function hasPublication($userID) {
 	//names of people who have publications
 	$pubNames = array(
-		"aezen",
-		"agmarti5",
-		"akvail",
-		"cdfox",
-		"cmmitch2",
-		"eha",
 		"fjrodri3",
 		"jbwiggi3",
-		"jfgrafsg",
 		"keboyer",
-		"psbuffum",
-		"xli30",
-		"jtsan",
-		"mvelluku",
 		"kprice",
 		"mcelepk",
-		"lpezzu",
-		"mohona",
-		"alex",
-		"david",
-		"aisha",
-    		"alexandra",
+		//"aisha",
+    		//"alexandra",
 		"alexia");
 
 	foreach($pubNames as $pubName){
