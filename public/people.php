@@ -209,7 +209,6 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
-			<tr><td>Tessa Bohn-Carmichael</td><td>B.F.A., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Jing Low</td><td>B.S., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Lara Baigorria</td><td>B.S., 2019</td><td>University of Florida</td></tr>
 			<tr><td>Yingwen Huang</td><td>B.S., 2019</td><td>University of Florida</td></tr>
