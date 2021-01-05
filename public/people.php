@@ -150,7 +150,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 
-            <!--li><a href="person.php?id=aisha">
+            <li><a href="person.php?id=aisha">
                 <img class="people_img"
                 src="people/aisha.jpg"
                 alt="Person">
@@ -158,7 +158,7 @@
                 B.A. Student
                 <br>Education Sciences
                 <br>University of Florida</p>
-            </a></li-->
+            </a></li>
 
             <li><a href="person.php?id=alexia">
                 <img class="people_img"
