@@ -160,6 +160,16 @@
                 <br>University of Florida</p>
             </a></li>
 
+			<li><a href="person.php?id=ckahn">
+                <img class="people_img"
+                src="people/ckahn.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Christina Kahn<br></span>
+                B.S. Student
+                <br>Digital Arts and Sciences
+                <br>University of Florida</p>
+            </a></li>
+			
             <li><a href="person.php?id=alexia">
                 <img class="people_img"
                 src="people/alexia.png"
