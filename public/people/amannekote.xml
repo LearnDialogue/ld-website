@@ -1,0 +1,35 @@
+<xml>
+        <names>
+                <name>Amogh Mannekote</name>
+
+        </names>
+		<!-- The different names are to account for the different combinations in which your name could appear in publications or listings. Please account for all variations. -->
+        <sort_name>Tian</sort_name>
+        <position>Ph.D. Student</position>
+        <program>Computer Science</program>
+	<school>University of Florida</school>
+	<email>amogh.mannekote@ufl.edu</email>
+<bio>Amogh Mannekote is a Ph.D. student advised by Dr. Kristy Boyer. </bio>
+
+    <degrees>
+                <degree>
+                        <abbrev>Ph.D.</abbrev>
+                        <subject>Computer Science</subject>
+                        <graduation>Expected 2026</graduation>
+                        <school>University of Florida</school>
+			<details>
+			</details>
+        	</degree>
+
+		<degree>
+                        <abbrev>Bachelor's Degree</abbrev>
+                        <subject>Computer Science</subject>
+                        <graduation>202?</graduation>
+                        <school>?</school>
+                        <details>
+                        </details>
+                </degree>
+
+    </degrees>
+
+</xml>
