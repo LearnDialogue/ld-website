@@ -63,6 +63,16 @@
 				<br>University of Florida</p>
 			</a></li>
 			
+			<li><a href="person.php?id=nick">
+				<img class="people_img"
+				src="people/nick.png"
+				alt="Nick Lytle">
+				<p class="people_txt"><span class="people_name">Nick Lytle<br></span>
+				Postdoctoral Research Associate
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
+			
 		</ul>
 
 		<p class="clear">&nbsp;</p>
