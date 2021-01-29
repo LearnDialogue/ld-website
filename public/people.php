@@ -191,9 +191,9 @@
 		<table class="alumni_list">
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
 			<tr><td></td></tr>
+			<tr><td></td></tr> 
 			<tr><td></td></tr>
-			<tr><td></td></tr>
-			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020</td><td>North Carolina State University</td></tr>
+			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020 - <a href="https://repository.lib.ncsu.edu/handle/1840.20/38304">Dissertation</a> </td><td>North Carolina State University</td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
