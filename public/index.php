@@ -28,7 +28,7 @@
 
 </p>
 
-<p>We aim to transform the way that young learners experience computer science, and we engage in evidence-based multidisciplinary research and computer science curriculum development for elementary and middle school. We also conduct research on pedagogical and technological innovation in postsecondary computer science. Promoting diversity and equity is a core value that permeates all of our projects.</p>
+<p>We aim to transform the way that young learners experience computer science, and we engage in evidence-based multidisciplinary research and computer science curriculum development for elementary and middle school. We also conduct research on pedagogical and technological innovation in secondary and postsecondary computer science. Promoting diversity and equity is a core value that permeates all of our projects.</p>
 
 
 </div>
