@@ -204,7 +204,7 @@
 			<tr><td></td></tr> 
 			<tr><td></td></tr>
 			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020 - <a href="https://repository.lib.ncsu.edu/handle/1840.20/38304">Dissertation</a> </td><td>North Carolina State University</td></tr>
-			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020</td><td>University of Florida</td></tr>
+			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020 - <a href="https://ufdc.ufl.edu/UFE0056849/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Philip Buffum</td><td>Ph.D., 2017</td><td>North Carolina State University</td></tr>
 			<tr><td>Aysu Ezen-Can</td><td>Ph.D., 2015 - <a href="https://repository.lib.ncsu.edu/handle/1840.16/10470">Dissertation</a> </td><td>North Carolina State University</td></tr>
