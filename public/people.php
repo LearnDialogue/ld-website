@@ -133,15 +133,25 @@
                 <br>University of Florida</p>
             </a></li>
 
-			<li><a href="person.php?id=xiaoyi">
-					<img class="people_img"
-					src="people/xiaoyi.JPG"
-					alt="Person">
-					<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
-					Ph.D. Student
-					<br>Human-Centered Computing
-					<br>University of Florida</p>
-			</a></li>
+	    <li><a href="person.php?id=amannekote">
+                <img class="people_img"
+                src="people/amannekote.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Amogh Mannekote<br></span>
+                Ph.D. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+			
+	    <li><a href="person.php?id=xiaoyi">
+		<img class="people_img"
+		src="people/xiaoyi.JPG"
+		alt="Person">
+		<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
+		Ph.D. Student
+		<br>Human-Centered Computing
+		<br>University of Florida</p>
+	     </a></li>
 
             <li><a href="person.php?id=kprice">
                 <img class="people_img"
