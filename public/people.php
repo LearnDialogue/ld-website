@@ -132,6 +132,7 @@
                 <br>University of Florida</p>
             </a></li>
 
+			<!--
 	    	<li><a href="person.php?id=amannekote">
                 <img class="people_img"
                 src="people/amannekote.jpg"
@@ -141,6 +142,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
+            -->
 			
 	    	<li><a href="person.php?id=xiaoyi">
 				<img class="people_img"
