@@ -12,7 +12,6 @@
 
 <?php
 	include 'common/find.php';
-
 ?>
 		<h1>people</h1>
 		<!-- Director -->
@@ -33,6 +32,7 @@
 
 		<!-- Staff -->
 		<ul class="people_list">
+		
 			<li><a href="person.php?id=timothy">
 				<img class="people_img"
 				src="people/timothy.jpg"
@@ -43,15 +43,15 @@
 				<br>University of Florida</p>
 			</a></li>
 
-		        <li><a href="person.php?id=mcelepk">
-                		<img class="people_img"
-                		src="people/mcelepk.jpg"
-                		alt="Person">
-                		<p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
-                		Research Scientist
-                		<br>Computer Science
-                		<br>University of Florida</p>
-            		</a></li>
+		    <li><a href="person.php?id=mcelepk">
+                <img class="people_img"
+                src="people/mcelepk.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
+                Research Scientist
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
 
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
@@ -81,7 +81,6 @@
 		<!-- Graduate Students-->
 		<ul class="people_list">
 
-
 			<li><a href="person.php?id=fjrodri3">
 				<img class="people_img"
 				src="people/fjrodri3.jpg"
@@ -104,17 +103,17 @@
 
 
 			<li><a href="person.php?id=amanda">
-					<img class="people_img"
-					src="people/amanda.JPG"
-					alt="Person">
-					<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
-					Ph.D. Student
-					<br>Human-Centered Computing
-					<br>University of Florida</p>
+				<img class="people_img"
+				src="people/amanda.JPG"
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
+				Ph.D. Student
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
 			</a></li>
 
-						<li><a href="person.php?id=gloria">
-                <img class="people_img"
+			<li><a href="person.php?id=gloria">
+            	<img class="people_img"
                 src="people/gloria.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
@@ -133,7 +132,7 @@
                 <br>University of Florida</p>
             </a></li>
 
-	    <li><a href="person.php?id=amannekote">
+	    	<li><a href="person.php?id=amannekote">
                 <img class="people_img"
                 src="people/amannekote.jpg"
                 alt="Person">
@@ -143,15 +142,15 @@
                 <br>University of Florida</p>
             </a></li>
 			
-	    <li><a href="person.php?id=xiaoyi">
-		<img class="people_img"
-		src="people/xiaoyi.JPG"
-		alt="Person">
-		<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
-		Ph.D. Student
-		<br>Human-Centered Computing
-		<br>University of Florida</p>
-	     </a></li>
+	    	<li><a href="person.php?id=xiaoyi">
+				<img class="people_img"
+				src="people/xiaoyi.JPG"
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
+				Ph.D. Student
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
+	     	</a></li>
 
             <li><a href="person.php?id=kprice">
                 <img class="people_img"
@@ -162,6 +161,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
+            
 		</ul>
 
         <p class="clear">&nbsp;</p>
@@ -170,17 +170,19 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 
-          <!--  <li><a href="person.php?id=kiana">
-                <img class="people_img"
+            <!--  
+          	<li><a href="person.php?id=kiana">
+            	<img class="people_img"
                 src="people/kiana.jpg"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Kiana-Alize Diaz<br></span>
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li> -->
+            </a></li> 
+        	-->
 			
-	    <li><a href="person.php?id=aisha">
+	    	<li><a href="person.php?id=aisha">
                 <img class="people_img"
                 src="people/aisha.jpg"
                 alt="Person">
@@ -211,8 +213,6 @@
             </a></li>
 
 		</ul>
-
-
 
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
