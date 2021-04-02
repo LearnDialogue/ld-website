@@ -81,6 +81,16 @@
 		<!-- Graduate Students-->
 		<ul class="people_list">
 
+				<li><a href="person.php?id=jbwiggi3">
+				<img class="people_img"
+				src="people/jbwiggi3.jpg"
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
+				Ph.D.
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
+			</a></li>
+			
 			<li><a href="person.php?id=fjrodri3">
 				<img class="people_img"
 				src="people/fjrodri3.jpg"
@@ -90,18 +100,7 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
-			
-			<li><a href="person.php?id=jbwiggi3">
-				<img class="people_img"
-				src="people/jbwiggi3.jpg"
-				alt="Person">
-				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
-				Ph.D. Candidate
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-			</a></li>
-
-
+		
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
