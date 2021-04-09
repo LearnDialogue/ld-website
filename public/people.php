@@ -101,6 +101,16 @@
 				<br>University of Florida</p>
 			</a></li>
 		
+			            <li><a href="person.php?id=kprice">
+                <img class="people_img"
+                src="people/kprice.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
+                Ph.D. Candidate
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+			
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
@@ -150,16 +160,6 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
-
-            <li><a href="person.php?id=kprice">
-                <img class="people_img"
-                src="people/kprice.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
-                Ph.D. Student
-                <br>Human-Centered Computing
-                <br>University of Florida</p>
-            </a></li>
             
 		</ul>
 
