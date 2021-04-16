@@ -15,6 +15,18 @@
 		<ul id="project_list">
 			
 			<li><h2>active projects</h2></li>
+			
+			<li>
+				
+				<a href="project.php?id=CampDIALOGS">
+				
+				<img src="projects/CampDIALOGS.png" alt="CampDIALOGS">
+				<span class"thumb_txt"><h3>Camp DIALOGS</h3>
+					Fostering STEM Career Identity and Computer Science Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
+			</a>
+			
+			</li>
+			
 			<li>
 				
 				<a href="project.php?id=earsketch">
