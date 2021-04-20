@@ -5,6 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
 	<?php include './common/head.html'; ?>
+	
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/nav.css">
+	
+	<link rel="shortcut icon" href="favicon.ico?v=2" />
+	<link rel="apple-touch-icon" href="apple-touch-icon.png?v=2" />
+	<link rel="icon" type="image/x-icon" href="favicon.ico?v=2" />
+	
 	<meta name="description" content="This is a test.">
 	<style>
 	img {
