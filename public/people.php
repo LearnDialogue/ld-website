@@ -169,7 +169,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 
-            <!--  
+              
           	<li><a href="person.php?id=kiana">
             	<img class="people_img"
                 src="people/kiana.jpg"
@@ -179,7 +179,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li> 
-        	-->
+        	
 			
 	    	<li><a href="person.php?id=aisha">
                 <img class="people_img"
