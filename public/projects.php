@@ -22,7 +22,7 @@
 				
 				<img src="projects/CampDIALOGS.png" alt="CampDIALOGS" width="360" height="200">
 				<span class"thumb_txt"><h3>Camp DIALOGS</h3>
-					Fostering STEM Career Identity and Computer Science Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
+					Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
 			</a>
 			
 			</li>
