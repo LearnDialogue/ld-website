@@ -20,7 +20,7 @@
 				
 				<a href="project.php?id=CampDIALOGS">
 				
-				<img src="projects/CampDIALOGS.png" alt="CampDIALOGS" width="360" height="200">
+				<img src="projects/CampDIALOGS.png" alt="CampDIALOGS">
 				<span class"thumb_txt"><h3>Camp DIALOGS</h3>
 					Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
 			</a>
