@@ -20,7 +20,7 @@
 ?>
 
 
-	<img class="project_img" src="<?php echo $pic; ?>" />
+	<a href = "<?php echo $pic; ?>"> <img class="project_img" src="<?php echo $pic; ?>" /> </a>
 	<div class="top">
 		<h2><?php echo $xml->name; ?></h2>
 		<p><?php echo $xml->tagline; ?></p>
