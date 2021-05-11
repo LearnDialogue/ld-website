@@ -14,7 +14,7 @@ body {
 }
 @font-face {
     font-family: Gilroy-Bold;
-    src: url("Gilroy-FREE/Gilroy-ExtraBold.otf") format("opentype");
+    src: url("Gilroy-FREE/Gilroy-ExtraBold.otf")format("opentype");
 }
 .footer {
     position: absolute;
@@ -222,7 +222,7 @@ body {
     .summer-camp-hero-bg .info p {
         font-size: 16px;
     }
-.summer-camp-features {
+    .summer-camp-features {
         flex-flow: column;
         width: 85%;
         margin: auto;
