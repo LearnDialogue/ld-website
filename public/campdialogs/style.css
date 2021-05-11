@@ -10,11 +10,11 @@ body {
 }
 @font-face {
     font-family: Gilroy-Light;
-    src: url("../CampDialogs/Gilroy-FREE/Gilroy-Light.otf") format("opentype");
+    src: url("Gilroy-FREE/Gilroy-Light.otf") format("opentype");
 }
 @font-face {
     font-family: Gilroy-Bold;
-    src: url("../CampDialogs/Gilroy-FREE/Gilroy-ExtraBold.otf") format("opentype");
+    src: url("Gilroy-FREE/Gilroy-ExtraBold.otf") format("opentype");
 }
 .footer {
     position: absolute;
@@ -43,7 +43,7 @@ body {
 }
 
 .summer-camp-hero-bg{
-    background: url(/Users/gloriakatuka/campDIALOGS_v1/images/summercamp/bg_campdialogs4.png);
+    background: url(images/summercamp/bg_campdialogs4.png);
     width: 1350px;
     height: 600px;
     margin: auto;
