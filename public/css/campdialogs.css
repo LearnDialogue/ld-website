@@ -210,7 +210,7 @@ body {
         width: 100%;
         height: 405px;
         background-image: none;
-        background-color: #3b2245;
+        background-color: #03989E;
     }
     .summer-camp-hero-bg .info {
         padding: 0;
@@ -227,4 +227,16 @@ body {
         width: 85%;
         margin: auto;
     } 
+    .summer-camp-hero-bg .info {}
+    .summer-camp-hero-bg .info .headline {}
+    .summer-camp-hero-bg .info .subheadline{}
+    .summer-camp-hero-bg .info .subheadline_2{}
+    .summer-camp-hero-bg .info button {}
+    .summer-camp-features {}
+    .summer-camp-info {}
+    .info-details{}
+    .info-details .app-close{}
+    .info-details .app-close_free{}
+    
+    .item-header {}
 }
