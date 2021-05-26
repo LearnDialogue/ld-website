@@ -73,6 +73,16 @@
 				<br>University of Florida</p>
 			</a></li>
 			
+			<li><a href="person.php?id=jbwiggi3">
+				<img class="people_img"
+				src="people/jbwiggi3.jpg"
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
+				Research Scientist
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
+			
 		</ul>
 
 		<p class="clear">&nbsp;</p>
@@ -80,16 +90,6 @@
 
 		<!-- Graduate Students-->
 		<ul class="people_list">
-
-				<li><a href="person.php?id=jbwiggi3">
-				<img class="people_img"
-				src="people/jbwiggi3.jpg"
-				alt="Person">
-				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
-				Ph.D.
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-			</a></li>
 			
 			<li><a href="person.php?id=fjrodri3">
 				<img class="people_img"
@@ -222,6 +222,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr> 
 			<tr><td></td></tr>
+			<tr><td>Joseph B. Wiggins</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020 - <a href="https://repository.lib.ncsu.edu/handle/1840.20/38304">Dissertation</a> </td><td>North Carolina State University</td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020 - <a href="https://ufdc.ufl.edu/UFE0056849/00001">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Xiaolong Li</td><td>Ph.D., 2018 - <a href="https://ufdc.ufl.edu/UFE0052195/00001">Dissertation</a> </td><td>University of Florida</td></tr>
