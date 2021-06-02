@@ -127,7 +127,7 @@
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
                 Ph.D. Student
-                <br>Human-Centered Computing
+                <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
 
