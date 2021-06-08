@@ -211,7 +211,7 @@
                 <br>University of Florida</p>
             </a></li>
 			
-		<li><a href="person.php?id=omar">
+		<!--li><a href="person.php?id=omar">
                 <img class="people_img"
                 src="people/omar.png"
                 alt="Person">
@@ -219,7 +219,7 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li>
+            </a></li-->
 
 		</ul>
 
