@@ -163,7 +163,7 @@
             
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
-				src="people/amit.JPG"
+				src="people/amit.jpg"
 				alt="Person">
 				<p class="people_txt"><span class="people_name">Amit Kumar<br></span>
 				M.S. Student
