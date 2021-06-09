@@ -88,7 +88,7 @@
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
 
-		<!-- Graduate Students-->
+		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 			
 			<li><a href="person.php?id=fjrodri3">
@@ -161,6 +161,16 @@
 				<br>University of Florida</p>
 	     	</a></li>
             
+		<li><a href="person.php?id=amit">
+				<img class="people_img"
+				src="people/amit.JPG"
+				alt="Person">
+				<p class="people_txt"><span class="people_name">Amit Kumar<br></span>
+				M.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
+			
 		</ul>
 
         <p class="clear">&nbsp;</p>
