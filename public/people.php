@@ -91,7 +91,7 @@
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 			
-			<li><a href="person.php?id=fjrodri3">
+			<!-- li><a href="person.php?id=fjrodri3">
 				<img class="people_img"
 				src="people/fjrodri3.jpg"
 				alt="Person">
@@ -99,17 +99,17 @@
 				Ph.D. Candidate
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
-			</a></li>
+			</a></li -->
 		
-			            <li><a href="person.php?id=kprice">
-                <img class="people_img"
-                src="people/kprice.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
-                Ph.D. Candidate
-                <br>Human-Centered Computing
-                <br>University of Florida</p>
-            </a></li>
+			<li><a href="person.php?id=kprice">
+                		<img class="people_img"
+                		src="people/kprice.jpg"
+                		alt="Person">
+                		<p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
+                		Ph.D. Candidate
+                		<br>Human-Centered Computing
+                		<br>University of Florida</p>
+            		</a></li>
 			
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
@@ -242,6 +242,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr> 
 			<tr><td></td></tr>
+			<tr><td>Fernando J. Rodríguez</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Joseph B. Wiggins</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020 - <a href="https://repository.lib.ncsu.edu/handle/1840.20/38304">Dissertation</a> </td><td>North Carolina State University</td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020 - <a href="https://ufdc.ufl.edu/UFE0056849/00001">Dissertation</a> </td><td>University of Florida</td></tr>
