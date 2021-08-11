@@ -73,7 +73,10 @@
 			</a>
 			
 			</li>
-
+			
+			<!-- Completed projects -->
+			<li><h2>completed projects</h2></li>
+			
 			<li>
 				
 				<a href="project.php?id=prime">
@@ -93,9 +96,6 @@
 					Building computational models of the structure of human dialogue.</span>
 				</a>
 			</li>
-			
-			<!-- Completed projects -->
-			<li><h2>completed projects</h2></li>
 			
 			<li>
 				<a href="project.php?id=Engage">
