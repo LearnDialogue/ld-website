@@ -180,7 +180,7 @@
 		<ul class="people_list">
 
               
-          	<li><a href="person.php?id=kiana">
+          <!--	<li><a href="person.php?id=kiana">
             	<img class="people_img"
                 src="people/kiana.jpg"
                 alt="Person">
@@ -188,7 +188,7 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li> 
+            </a></li> -->
         	
 			
 	    <!-- li><a href="person.php?id=aisha">
@@ -201,7 +201,7 @@
                 <br>University of Florida</p>
             </a></li -->
 
-	    <li><a href="person.php?id=ckahn">
+	<!--    <li><a href="person.php?id=ckahn">
                 <img class="people_img"
                 src="people/ckahn.jpg"
                 alt="Person">
@@ -219,7 +219,7 @@
                 B.S. Student
                 <br>Computer Engineering
                 <br>University of Florida</p>
-            </a></li>
+            </a></li> -->
 			
 		<li><a href="person.php?id=omar">
                 <img class="people_img"
