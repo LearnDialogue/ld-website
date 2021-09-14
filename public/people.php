@@ -231,6 +231,16 @@
                 <br>University of Florida</p>
             </a></li>
 
+		<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+			
 		</ul>
 
 		<p class="clear">&nbsp;</p>
