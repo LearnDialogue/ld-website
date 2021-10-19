@@ -220,26 +220,16 @@
                 <br>Computer Engineering
                 <br>University of Florida</p>
             </a></li> -->
-			
-		<li><a href="person.php?id=omar">
+		
+		<li><a href="person.php?id=john">
                 <img class="people_img"
-                src="people/omar.JPG"
+                src="people/john.jpg"
                 alt="Person">
-                <p class="people_txt"><span class="people_name">Omar Maslamani<br></span>
+                <p class="people_txt"><span class="people_name">John Hoang<br></span>
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li>
-
-		<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
+            </a></li>		
 			
 		<li><a href="person.php?id=kat">
                 <img class="people_img"
@@ -250,7 +240,26 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>	
-			
+		
+		<li><a href="person.php?id=omar">
+                <img class="people_img"
+                src="people/omar.JPG"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Omar Maslamani<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+		
+		<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
 			
 		</ul>
 
