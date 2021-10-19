@@ -241,6 +241,17 @@
                 <br>University of Florida</p>
             </a></li>
 			
+		<li><a href="person.php?id=kat">
+                <img class="people_img"
+                src="people/kat.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Kat Barredo<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>	
+			
+			
 		</ul>
 
 		<p class="clear">&nbsp;</p>
