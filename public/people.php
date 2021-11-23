@@ -221,6 +221,16 @@
                 <br>University of Florida</p>
             </a></li> -->
 
+		<li><a href="person.php?id=yvonika">
+                <img class="people_img"
+                src="people/yvonika.jpg"
+                alt="Person">
+                <p class="people_txt"><span class="people_name">Yvonika Auguste<br></span>
+                B.S. Student
+                <br>Health Education and Behavior
+                <br>University of Florida</p>
+            </a></li>	
+			
 		<li><a href="person.php?id=kat">
                 <img class="people_img"
                 src="people/kat.jpg"
