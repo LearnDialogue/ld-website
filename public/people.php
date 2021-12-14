@@ -223,7 +223,7 @@
 
 		<li><a href="person.php?id=yvonika">
                 <img class="people_img"
-                src="people/yvonika.jpg"
+                src="people/yvonika.JPG"
                 alt="Person">
                 <p class="people_txt"><span class="people_name">Yvonika Auguste<br></span>
                 B.S. Student
