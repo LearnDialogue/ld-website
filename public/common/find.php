@@ -103,6 +103,7 @@ function hasPublication($userID) {
 		"gloria",
 		"yingbo",
 		"amanda",
+		"amannekote",
 		"timothy",
 		"jule"
 	);
