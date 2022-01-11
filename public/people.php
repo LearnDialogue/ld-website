@@ -36,8 +36,8 @@
 			<li><a href="person.php?id=timothy">
 				<img class="people_img"
 				src="people/timothy.jpg"
-				alt="Person">
-				<p class="people_txt"><span class="people_name">Timothy B. Brown<br></span>
+				alt="Timothy Brown">
+				<p class="people_txt"><span class="people_name">Timothy D. Brown<br></span>
 				Research Coordinator
 				<br>Computer Science
 				<br>University of Florida</p>
@@ -46,13 +46,23 @@
 		    <li><a href="person.php?id=mcelepk">
                 <img class="people_img"
                 src="people/mcelepk.jpg"
-                alt="Person">
+                alt="Mehmet Celepkolu">
                 <p class="people_txt"><span class="people_name">Mehmet Celepkolu<br></span>
                 Research Scientist
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
 
+			<li><a href="person.php?id=alex">
+				<img class="people_img"
+				src="people/alex.png"
+				alt="Alexandra Dibble">
+				<p class="people_txt"><span class="people_name">Alexandra Dibble<br></span>
+				Research Associate
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
+			
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
 				src="people/jule.jpg"
@@ -76,7 +86,7 @@
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
 				src="people/jbwiggi3.jpg"
-				alt="Person">
+				alt="Joseph Wiggins">
 				<p class="people_txt"><span class="people_name">Joseph B. Wiggins<br></span>
 				Research Scientist
 				<br>Computer Science
@@ -94,7 +104,7 @@
 			<!-- li><a href="person.php?id=fjrodri3">
 				<img class="people_img"
 				src="people/fjrodri3.jpg"
-				alt="Person">
+				alt="Fernando Rodríguez">
 				<p class="people_txt"><span class="people_name">Fernando J. Rodríguez<br></span>
 				Ph.D. Candidate
 				<br>Human-Centered Computing
@@ -104,7 +114,7 @@
 			<li><a href="person.php?id=kprice">
                 		<img class="people_img"
                 		src="people/kprice.jpg"
-                		alt="Person">
+                		alt="Kimberly Ying">
                 		<p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
                 		Ph.D. Candidate
                 		<br>Human-Centered Computing
@@ -114,7 +124,7 @@
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
-				alt="Person">
+				alt="Amanda Griffith">
 				<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
 				Ph.D. Student
 				<br>Human-Centered Computing
@@ -124,7 +134,7 @@
 			<li><a href="person.php?id=gloria">
             	<img class="people_img"
                 src="people/gloria.jpg"
-                alt="Person">
+                alt="Gloria Katuka">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
                 Ph.D. Student
                 <br>Computer Science
@@ -134,7 +144,7 @@
             <li><a href="person.php?id=yingbo">
                 <img class="people_img"
                 src="people/yingbo.jpg"
-                alt="Person">
+                alt="Yingbo Ma">
                 <p class="people_txt"><span class="people_name">Yingbo Ma<br></span>
                 Ph.D. Student
                 <br>Computer Science
@@ -144,7 +154,7 @@
 	    	<li><a href="person.php?id=amannekote">
                 <img class="people_img"
                 src="people/amannekote.jpg"
-                alt="Person">
+                alt="Amogh Mannekote">
                 <p class="people_txt"><span class="people_name">Amogh Mannekote<br></span>
                 Ph.D. Student
                 <br>Computer Science
@@ -154,7 +164,7 @@
 	    	<li><a href="person.php?id=xiaoyi">
 				<img class="people_img"
 				src="people/xiaoyi.JPG"
-				alt="Person">
+				alt="Xiaoyi Tian">
 				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
 				Ph.D. Student
 				<br>Human-Centered Computing
@@ -164,7 +174,7 @@
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
 				src="people/amit.jpg"
-				alt="Person">
+				alt="Amit Kumar">
 				<p class="people_txt"><span class="people_name">Amit Kumar<br></span>
 				M.S. Student
 				<br>Computer Science
@@ -224,7 +234,7 @@
 		<li><a href="person.php?id=yvonika">
                 <img class="people_img"
                 src="people/yvonika.JPG"
-                alt="Person">
+                alt="Yvonika Auguste">
                 <p class="people_txt"><span class="people_name">Yvonika Auguste<br></span>
                 B.S. Student
                 <br>Health Education and Behavior
@@ -234,7 +244,7 @@
 		<li><a href="person.php?id=kat">
                 <img class="people_img"
                 src="people/kat.jpg"
-                alt="Person">
+                alt="Kat Barredo">
                 <p class="people_txt"><span class="people_name">Kat Barredo<br></span>
                 B.S. Student
                 <br>Computer Science
@@ -244,7 +254,7 @@
 		<li><a href="person.php?id=toni">
                 <img class="people_img"
                 src="people/toni.jpeg"
-                alt="Person">
+                alt="Toni Earle-Randell">
                 <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
                 B.S. Student
                 <br>Computer Science
@@ -254,7 +264,7 @@
 		<li><a href="person.php?id=john">
                 <img class="people_img"
                 src="people/john.jpg"
-                alt="Person">
+                alt="John Hoang">
                 <p class="people_txt"><span class="people_name">John Hoang<br></span>
                 B.S. Student
                 <br>Computer Science
@@ -265,7 +275,7 @@
 		<li><a href="person.php?id=omar">
                 <img class="people_img"
                 src="people/omar.JPG"
-                alt="Person">
+                alt="Omar Maslamani">
                 <p class="people_txt"><span class="people_name">Omar Maslamani<br></span>
                 B.S. Student
                 <br>Computer Science
