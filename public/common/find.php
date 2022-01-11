@@ -104,6 +104,7 @@ function hasPublication($userID) {
 		"yingbo",
 		"amanda",
 		"amannekote",
+		"alex",
 		"timothy",
 		"jule"
 	);
