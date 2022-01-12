@@ -55,7 +55,7 @@
 
 			<li><a href="person.php?id=alex">
 				<img class="people_img"
-				src="people/alex.png"
+				src="people/alex.PNG"
 				alt="Alexandra Dibble">
 				<p class="people_txt"><span class="people_name">Alexandra Dibble<br></span>
 				Research Associate
