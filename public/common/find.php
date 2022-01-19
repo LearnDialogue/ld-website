@@ -13,7 +13,7 @@ if(!function_exists("simplexml_load_file")){
 //finds the picture for a given unity ID
 function findPicture($userID) {
 	$imglocation = 'people/' . $userID;
-	$formats = array(".png", ".jpg", ".jpeg", ".JPG");
+	$formats = array(".png", ".jpg", ".jpeg", ".JPG", ".PNG");
 
 	foreach($formats as $format){
 		$file = $imglocation . $format;
