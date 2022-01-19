@@ -53,7 +53,7 @@
                 <br>University of Florida</p>
             </a></li>
 
-			<!--<li><a href="person.php?id=alex">
+			<li><a href="person.php?id=alex">
 				<img class="people_img"
 				src="people/Alex.PNG"
 				alt="Alexandra Dibble">
@@ -61,7 +61,7 @@
 				Research Associate
 				<br>Computer Science
 				<br>University of Florida</p>
-			</a></li> -->
+			</a></li>
 			
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
