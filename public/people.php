@@ -101,26 +101,6 @@
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 			
-			<!-- li><a href="person.php?id=fjrodri3">
-				<img class="people_img"
-				src="people/fjrodri3.jpg"
-				alt="Fernando Rodríguez">
-				<p class="people_txt"><span class="people_name">Fernando J. Rodríguez<br></span>
-				Ph.D. Candidate
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-			</a></li -->
-		
-			<li><a href="person.php?id=kprice">
-                		<img class="people_img"
-                		src="people/kprice.jpg"
-                		alt="Kimberly Ying">
-                		<p class="people_txt"><span class="people_name">Kimberly Michelle Ying<br></span>
-                		Ph.D. Candidate
-                		<br>Human-Centered Computing
-                		<br>University of Florida</p>
-            		</a></li>
-			
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
@@ -188,48 +168,6 @@
 
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
-
-              
-          <!--	<li><a href="person.php?id=kiana">
-            	<img class="people_img"
-                src="people/kiana.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Kiana-Alize Diaz<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li> -->
-        	
-			
-	    <!-- li><a href="person.php?id=aisha">
-                <img class="people_img"
-                src="people/aisha.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Aisha Chung Galdo<br></span>
-                B.A. Student
-                <br>Education Sciences
-                <br>University of Florida</p>
-            </a></li -->
-
-	<!--    <li><a href="person.php?id=ckahn">
-                <img class="people_img"
-                src="people/ckahn.jpg"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Christina Kahn<br></span>
-                B.S. Student
-                <br>Digital Arts and Sciences
-                <br>University of Florida</p>
-            </a></li>
-			
-            <li><a href="person.php?id=alexia">
-                <img class="people_img"
-                src="people/alexia.png"
-                alt="Person">
-                <p class="people_txt"><span class="people_name">Alexia Charis Martin<br></span>
-                B.S. Student
-                <br>Computer Engineering
-                <br>University of Florida</p>
-            </a></li> -->
 
 		<li><a href="person.php?id=yvonika">
                 <img class="people_img"
