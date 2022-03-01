@@ -293,7 +293,7 @@
 			<tr><td></td></tr>
 			<tr><td></td></tr> 
 			<tr><td></td></tr>
-			<tr><td>Fernando J. Rodríguez</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
+			<tr><td>Fernando J. Rodríguez</td><td>Ph.D., 2021 <a href="https://ufdc.ufl.edu/UFE0057941/00001">Dissertation</a></td><td>University of Florida</td></tr>
 			<tr><td>Joseph B. Wiggins</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Jennifer Tsan</td><td>Ph.D., 2020 - <a href="https://repository.lib.ncsu.edu/handle/1840.20/38304">Dissertation</a> </td><td>North Carolina State University</td></tr>
 			<tr><td>Mehmet Celepkolu</td><td>Ph.D., 2020 - <a href="https://ufdc.ufl.edu/UFE0056849/00001">Dissertation</a> </td><td>University of Florida</td></tr>
