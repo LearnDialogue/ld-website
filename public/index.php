@@ -20,7 +20,7 @@
 <?php include './common/nav.html'; ?>
 <div class="front_page">
 <br>
-<img id="learndialogue_group_photo" src="img/learndialogue_fall2020.png" class="center" />
+<img id="learndialogue_group_photo" src="img/LearnDialogue_Spring2022_2.png" class="center" />
 
 <p>The LearnDialogue Group is a research lab in the <a href="https://www.cise.ufl.edu/">Department of Computer &amp; Information Science &amp; Engineering</a> at the <a href="http://www.ufl.edu/">University of Florida</a>. We are a group of computer scientists with multidisciplinary backgrounds, led by <a href="person.php?id=keboyer">Kristy Elizabeth Boyer</a>.</p>
 
