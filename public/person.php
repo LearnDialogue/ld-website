@@ -107,8 +107,10 @@ foreach($degrees as $degree){
 		if($userID == "keboyer"){
 			echo "<h2>teaching</h2>";
 			echo "<table class=\"teaching\">";
-			echo "<tr><td class=\"first\">Fall 2019:</td><td><a href=\"https://cise.ufl.edu/research/learndialogue/pdf/COP6930-Fall2019-syllabus.pdf\">Spoken Dialogue Systems (COP 4930/6930)</td></tr>";
-			echo "<tr><td class=\"first\">Fall 2017:</td><td><a href=\"https://cise.ufl.edu/research/learndialogue/pdf/COP6930-Fall2017-syllabus.pdf\">Dialogue Systems and Natural Language Interfaces (COP 4930/6930)</td></tr>";
+			echo "<tr><td class=\"first\">Spring 2022:</td><td> Research Methods for Human-Centered Computing (CAP 5108)</td></tr>";
+			echo "<tr><td class=\"first\">Fall 2021:</td><td> Dialogue Systems and Natural Language Interfaces (CIS 4930/6930)</td></tr>";			
+			echo "<tr><td class=\"first\">Fall 2019:</td><td><a href=\"https://cise.ufl.edu/research/learndialogue/pdf/COP6930-Fall2019-syllabus.pdf\">Spoken Dialogue Systems (CIS 4930/6930)</td></tr>";
+			echo "<tr><td class=\"first\">Fall 2017:</td><td><a href=\"https://cise.ufl.edu/research/learndialogue/pdf/COP6930-Fall2017-syllabus.pdf\">Dialogue Systems and Natural Language Interfaces (CIS 4930/6930)</td></tr>";
 			echo "<tr><td class=\"first\">Spring 2017:</td><td>Programming Fundamentals I (COP 3502)</td></tr>";
 			echo "<tr><td class=\"first\">Fall 2016:</td><td>Dialogue Systems and Natural Language Interfaces (COP 4930/6930)</td></tr>";
 			echo "<tr><td class=\"first\">Spring 2016:</td><td>Programming Fundamentals I (COP 3502)</td></tr>";
