@@ -62,6 +62,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+
+			<li><a href="person.php?id=nick">
+				<img class="people_img"
+				src="people/nick.png"
+				alt="Nick Lytle">
+				<p class="people_txt"><span class="people_name">Nick Lytle<br></span>
+				Postdoctoral Research Associate
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
 			
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
@@ -72,13 +82,13 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
-			<li><a href="person.php?id=nick">
+				
+			<li><a href="person.php?id=lydia">
 				<img class="people_img"
-				src="people/nick.png"
-				alt="Nick Lytle">
-				<p class="people_txt"><span class="people_name">Nick Lytle<br></span>
-				Postdoctoral Research Associate
+				src="people/lydia.jpeg"
+				alt="Lydia Pezzullo">
+				<p class="people_txt"><span class="people_name">Lydia Pezzullo<br></span>
+				Research Coordinator
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
