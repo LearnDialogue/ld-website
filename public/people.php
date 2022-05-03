@@ -33,6 +33,16 @@
 		<!-- Staff -->
 		<ul class="people_list">
 		
+			<li><a href="person.php?id=maedeh">
+				<img class="people_img"
+				src="people/maedeh.jpg"
+				alt="Maedeh Agharazidermani">
+				<p class="people_txt"><span class="people_name">Maedeh Agharazi<br></span>
+				Postdoctoral Associate
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
+			
 			<li><a href="person.php?id=timothy">
 				<img class="people_img"
 				src="people/timothy.jpg"
