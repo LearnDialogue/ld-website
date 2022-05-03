@@ -53,16 +53,6 @@
                 <br>University of Florida</p>
             </a></li>
 
-			<li><a href="person.php?id=alex">
-				<img class="people_img"
-				src="people/Alex.PNG"
-				alt="Alexandra Dibble">
-				<p class="people_txt"><span class="people_name">Alexandra Dibble<br></span>
-				Research Associate
-				<br>Computer Science
-				<br>University of Florida</p>
-			</a></li>
-
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
 				src="people/nick.png"
