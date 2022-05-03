@@ -18,24 +18,28 @@
                         <subject>Information</subject>
                         <graduation>2021</graduation>
                         <school>Florida State University</school>
+			</degree>
                   
+			<degree>
                         <abbrev>M.S.</abbrev>
                         <subject>Sociocultural International Development Educational Studies</subject>
                         <graduation>2017</graduation>
                         <school>Florida State University</school>
+			</degree>
                   
+			<degree>
                         <abbrev>M.A.</abbrev>
                         <subject>Master of Multimedia (E-learning Technologies)</subject>
                         <graduation>2011</graduation>
                         <school>Multimedia University</school>
-                  
+			</degree>
+            
+			<degree>
                         <abbrev>B.S.</abbrev>
                         <subject>Information System Engineering</subject>
                         <graduation>2007</graduation>
-                        <school>Multimedia University</school>
-			<details>
-			</details>
-        	</degree>
+                        <school>Multimedia University</school>	
+			</degree>
 
     </degrees>
 
