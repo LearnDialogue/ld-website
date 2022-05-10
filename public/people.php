@@ -189,15 +189,6 @@
                 <br>University of Florida</p>
             </a></li>	
 			
-		<li><a href="person.php?id=kat">
-                <img class="people_img"
-                src="people/kat.jpg"
-                alt="Kat Barredo">
-                <p class="people_txt"><span class="people_name">Kat Barredo<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>	
 		
 		<li><a href="person.php?id=toni">
                 <img class="people_img"
@@ -218,17 +209,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>		
-				
-		
-		<li><a href="person.php?id=omar">
-                <img class="people_img"
-                src="people/omar.JPG"
-                alt="Omar Maslamani">
-                <p class="people_txt"><span class="people_name">Omar Maslamani<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
+			
 					
 		</ul>
 
