@@ -210,6 +210,15 @@
                 <br>University of Florida</p>
             </a></li>		
 			
+		<li><a href="person.php?id=sunjay">
+                <img class="people_img"
+                src="people/sunjay.png"
+                alt="Sunjay Kolakeri">
+                <p class="people_txt"><span class="people_name">Sunjay Kolakeri<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>		
 					
 		</ul>
 
