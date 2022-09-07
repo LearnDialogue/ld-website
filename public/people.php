@@ -222,7 +222,7 @@
 			
 	<li><a href="person.php?id=abe">
                 <img class="people_img"
-                src="people/abe.jpeg"
+                src="people/abe.jpg"
                 alt="Abraham Banos">
                 <p class="people_txt"><span class="people_name">Abraham Banos<br></span>
                 B.S. Student
