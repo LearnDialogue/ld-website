@@ -209,7 +209,7 @@
                 <br>University of Florida</p>
             </a></li>		
 	
-	<li><a href="person.php?id=aargawal">
+<!--	<li><a href="person.php?id=aargawal">
                 <img class="people_img"
                 src="people/aargawal.jpeg"
                 alt="Amogh Argawal">
@@ -217,7 +217,7 @@
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
-            </a></li>
+            </a></li> -->
 			
 		</ul>
 
