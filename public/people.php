@@ -210,11 +210,11 @@
                 <br>University of Florida</p>
             </a></li>		
 	
-	<li><a href="person.php?id=aargawal">
+	<li><a href="person.php?id=aagarwal">
                 <img class="people_img"
-                src="people/aargawal.jpeg"
+                src="people/aagarwal.jpeg"
                 alt="Amogh Argawal">
-                <p class="people_txt"><span class="people_name">Amogh Argawal<br></span>
+                <p class="people_txt"><span class="people_name">Amogh Agarwal<br></span>
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
