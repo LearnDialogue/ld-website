@@ -160,7 +160,17 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
-            
+
+			<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Toni Earle-Randell">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+			
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
 				src="people/amit.jpg"
@@ -179,15 +189,6 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 		
-		<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Toni Earle-Randell">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
 			
 		<li><a href="person.php?id=john">
                 <img class="people_img"
@@ -209,7 +210,7 @@
                 <br>University of Florida</p>
             </a></li>		
 	
-<!--	<li><a href="person.php?id=aargawal">
+	<li><a href="person.php?id=aargawal">
                 <img class="people_img"
                 src="people/aargawal.jpeg"
                 alt="Amogh Argawal">
@@ -217,7 +218,28 @@
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
-            </a></li> -->
+            </a></li> 
+			
+	<li><a href="person.php?id=abe">
+                <img class="people_img"
+                src="people/abe.jpeg"
+                alt="Abraham Banos">
+                <p class="people_txt"><span class="people_name">Abraham Banos<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li> 
+			
+	<li><a href="person.php?id=carly">
+                <img class="people_img"
+                src="people/carly.jpg"
+                alt="Carly Solomon">
+                <p class="people_txt"><span class="people_name">Carly Solomon<br></span>
+                B.S. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li> 
+			
 			
 		</ul>
 
