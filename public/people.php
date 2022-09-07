@@ -208,7 +208,17 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>		
-					
+	
+	<li><a href="person.php?id=aargawal">
+                <img class="people_img"
+                src="people/aargawal.jpeg"
+                alt="Amogh Argawal">
+                <p class="people_txt"><span class="people_name">Amogh Argawal<br></span>
+                B.S. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+			
 		</ul>
 
 		<p class="clear">&nbsp;</p>
