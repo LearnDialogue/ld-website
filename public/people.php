@@ -160,6 +160,16 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
+
+			<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Toni Earle-Randell">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
 			
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
@@ -179,16 +189,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 		
-		<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Toni Earle-Randell">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
-				
+			
 		<li><a href="person.php?id=john">
                 <img class="people_img"
                 src="people/john.jpg"

@@ -6,18 +6,24 @@
 </names>
 <sort_name>Earle-Randell</sort_name>
 
-<position>B.A. Student</position>
-<program>Computer Science</program>
+<position>Ph.D Student</position>
+<program>Human-Centered Computing</program>
 <school>University of Florida</school>
 <email>tearlerandell@ufl.edu</email>
 <bio>
-Toni is a fourth-year undergraduate Computer Science student with a minor in Educational Technology, and she is mentored by Research Scientist Mehmet Celepkolu. She is currently part of the FLECKS project. 
+Toni is a Ph.D. student in Human-Centered Computing advised by Dr. Kristy Boyer. She was an undergraduate researcher in the LearnDialogue lab for a year before she became a Ph.D. student, and recieved her Bachelors degree at the University of Florida in May of 2022. Currently, she is part of the IntegrateAI and FLECKS projects.
 </bio>
 <degrees>
 <degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Human-Centered Computing</subject>
+<graduation>Expected 2026</graduation>
+<school>University of Florida</school>
+</degree>
+<degree>
 <abbrev>B.A.</abbrev>
-<subject>Education Sciences</subject>
-<graduation>Expected 2022</graduation>
+<subject>Computer Science</subject>
+<graduation>2022</graduation>
 <school>University of Florida</school>
 </degree>
 </degrees>
