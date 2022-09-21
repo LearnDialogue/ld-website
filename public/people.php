@@ -166,8 +166,8 @@
                 src="people/toni.jpeg"
                 alt="Toni Earle-Randell">
                 <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                B.S. Student
-                <br>Computer Science
+                Ph.D. Student
+                <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
 			
