@@ -24,12 +24,12 @@
 
 <p>The LearnDialogue Group is a research lab in the <a href="https://www.cise.ufl.edu/">Department of Computer &amp; Information Science &amp; Engineering</a> at the <a href="http://www.ufl.edu/">University of Florida</a>. We are a group of computer scientists with multidisciplinary backgrounds, led by <a href="person.php?id=keboyer">Kristy Elizabeth Boyer</a>.</p>
 
-<p>We research the ways in which natural language dialogue and intelligent systems can support human learning. We build computational models of dialogue and learning, and these models drive the adaptivity of our intelligent systems while shedding light on effective strategies for supporting human learning. We design, develop, and investigate learning environments for individuals and collaborative groups including tutorial dialogue, intelligent tutoring, virtual agents for learning, and game-based learning.
+<p>We research the ways in which natural language dialogue and intelligent systems can support human learning and sport. We build computational models of activities, and these models drive the adaptivity of our intelligent systems while shedding light on effective strategies for supporting humans in learning and sport. We design, develop, and investigate learning environments for collaborative groups including tutorial dialogue, intelligent tutoring, real-time visualizations for sport, virtual agents for learning, and game-based learning.
 
 </p>
 
-<p>We aim to transform the way that young learners experience computer science, and we engage in evidence-based multidisciplinary research and computer science curriculum development for elementary and middle school. We also conduct research on pedagogical and technological innovation in secondary and postsecondary computer science. Promoting diversity and equity is a core value that permeates all of our projects.</p>
-
+<p>We aim to transform the way that young learners experience computer science, and we engage in evidence-based multidisciplinary research and computer science curriculum development for elementary and middle school. We also conduct research on pedagogical and technological innovation in secondary and postsecondary computer science. Promoting diversity and equity is a core value that permeates all of our projects on learning and sport.</p>
+	
 
 </div>
 <?php include './common/footer.html'; ?>
