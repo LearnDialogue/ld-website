@@ -106,7 +106,10 @@ function hasPublication($userID) {
 		"amannekote",
 		"alex",
 		"timothy",
-		"jule"
+		"jule",
+		"amit",
+		"toni"
+
 	);
 
 	foreach($pubNames as $pubName){
