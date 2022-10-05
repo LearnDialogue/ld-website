@@ -26,6 +26,17 @@
 			</a>
 			
 			</li>
+
+			<li>
+				
+				<a href="project.php?id=CollabSport">
+				
+				<img src="projects/CollabSport.png" alt="CollabSport">
+				<span class"thumb_txt"><h3>Collaborative Sport</h3>
+				Real time analytics for collaboration in endurance sports
+			</a>
+			
+			</li>
 			
 			<li>
 				
