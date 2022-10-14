@@ -39,7 +39,7 @@
 				echo "<table>";
 				echo "<tr><td>Office:
 				CISE Building Room 430</a></td>";
-				echo "<tr><td>Phone:+1.352.505.1902</td>";
+				// echo "<tr><td>Phone:+1.352.505.1902</td>";
 				echo "</table>";
 			}
 		?>

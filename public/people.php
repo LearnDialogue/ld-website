@@ -21,7 +21,7 @@
 				src="people/keboyer.png"
 				alt="Kristy Elizabeth Boyer">
 				<p class="people_txt"><span class="people_name">Kristy Elizabeth Boyer<br></span>
-				Associate Professor
+				Professor
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
