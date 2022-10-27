@@ -49,17 +49,6 @@
 			
 			</li>
 				
-				<li>
-				
-				<a href="project.php?id=CUE">
-				
-				<img src="projects/CUE.png" alt="CUE">
-				<span class"thumb_txt"><h3>CUE</h3>
-					Collaborative Research: Effective Peer Teaching Across Computing Pathways (National Science Foundation, DUE-1935111)
-			</a>
-			
-			</li>
-				
 			<li>
 				
 				<a href="project.php?id=earsketch">
@@ -85,6 +74,17 @@
 			
 			<!-- Completed projects -->
 			<li><h2>completed projects</h2></li>
+
+			<li>
+				
+				<a href="project.php?id=CUE">
+				
+				<img src="projects/CUE.png" alt="CUE">
+				<span class"thumb_txt"><h3>CUE</h3>
+					Collaborative Research: Effective Peer Teaching Across Computing Pathways (National Science Foundation, DUE-1935111)
+			</a>
+			
+			</li>
 			
 			<li>
 				
