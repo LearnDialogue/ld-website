@@ -179,6 +179,16 @@
 				M.S. Student
 				<br>Computer Science
 				<br>University of Florida</p>
+	     	</a></li>
+			
+		<li><a href="person.php?id=sunny">
+				<img class="people_img"
+				src="people/sunny.jpg"
+				alt="Sunny Dhama">
+				<p class="people_txt"><span class="people_name">Sunny Dhama<br></span>
+				M.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
 	     	</a></li>	
 			
 		</ul>
