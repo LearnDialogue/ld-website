@@ -62,7 +62,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-
+            <!--
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
 				src="people/nick.png"
@@ -72,7 +72,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		-->
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
 				src="people/jule.jpg"
@@ -92,7 +92,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		<!--
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
 				src="people/jbwiggi3.jpg"
@@ -102,7 +102,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		-->
 		</ul>
 
 		<p class="clear">&nbsp;</p>
@@ -170,7 +170,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
-			
+		<!--	
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
 				src="people/amit.jpg"
@@ -180,7 +180,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
-			
+		-->	
 		<li><a href="person.php?id=sunny">
 				<img class="people_img"
 				src="people/sunny.jpg"
@@ -199,7 +199,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 		
-			
+	<!--	
 		<li><a href="person.php?id=john">
                 <img class="people_img"
                 src="people/john.jpg"
@@ -229,7 +229,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li> 
-			
+	-->		
 	<li><a href="person.php?id=abe">
                 <img class="people_img"
                 src="people/abe.jpg"
