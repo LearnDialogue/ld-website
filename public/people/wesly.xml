@@ -1,0 +1,54 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Wesly S. Ménard </name>
+		<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+		<name>Wesly Ménard </name>
+		
+</names>
+<sort_name>Ménard</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Ph.D. Student</position>
+<program>Human-Centered Computing</program>
+<school>University of Florida</school>
+<email>w.menard@ufl.edu</email>
+<bio>
+Wesly Ménard is a Ph.D. student advised by Dr. Kristy Boyer in the Department of Computer \& Information Science \& Engineering at the University of Florida.
+
+His research interests include AI integration of sensor technologies and wearables, Athlete performance prediction and analysis, Collaborative and Intelligent training platforms with real-time feedback, K-12 Adaptive Learning. 
+
+Wesly aims to design training platforms for athletes and endurance sport enthusiasts that would allow them to leverage the power of machine learning to analyze their performance data, monitor their progress, and receive real-time feedback and recommendations. These platforms would also use historical data, biometric information, and environmental factors to provide insights into optimal training strategies, pacing, physiological optimization, and injury prevention. 
+
+Outside of academia, Wesly is an avid cyclist, runner, age-group duathlete, and overall lover of anything outdoors. In his spare time, he is either writing, sketching, or painting. 
+<degrees>
+<degree>
+<abbrev>Ph.D.</abbrev>
+<subject>Human-Centered Computing</subject>
+<graduation>Expected 2027</graduation>
+<school>University of Florida</school>
+</degree>
+<degree>
+<abbrev>M.Ed.</abbrev>
+<subject>Educational Leadership</subject>
+<graduation>2021</graduation>
+<school>University of Tampa</school>
+</degree>
+<degree>
+<abbrev>M.A</abbrev>
+<subject>Secondary Science Education</subject>
+<graduation>2017</graduation>
+<school>University of South Florida</school>
+</degree>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Educational Leadership</subject>
+<graduation>2010</graduation>
+<school>Clayton State University</school>
+</degree>
+</degrees>
+</xml>
