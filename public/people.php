@@ -62,6 +62,16 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
+			
+			<!-- <li><a href="person.php?id=lincoln">
+                <img class="people_img"
+                src="people/lincoln.jpg"
+                alt="Lincoln Lu">
+                <p class="people_txt"><span class="people_name">Lincoln Lu<br></span>
+                Research Scientist
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li> -->
             <!--
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
@@ -166,6 +176,16 @@
                 src="people/toni.jpeg"
                 alt="Toni Earle-Randell">
                 <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+
+			<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/wesly.jpg"
+                alt="Wesly Menard">
+                <p class="people_txt"><span class="people_name">Wesly Menarrd<br></span>
                 Ph.D. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
