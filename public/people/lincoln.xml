@@ -1,0 +1,43 @@
+<xml>
+        <names>
+                <name>Lincoln Lu</name>
+<name>Lincoln X. Lu</name>
+        </names>
+		<!-- The different names are to account for the different combinations in which your name could appear in publications or listings. Please account for all variations. -->
+        <sort_name>Lu</sort_name>
+        <position>Research Scientist</position>
+        <program>Computer Science</program>
+	<school>University of Florida</school>
+	<email>lincolnlu@ufl.edu</email>
+<bio>As a research scientist, Lincoln is a part of a team working with Dr. Boyer in learning how collaborative physical activity (PA) works and how individuals share their PA data. His research interests include interpersonal interactions during sport, AI in physical activity, technology use in collaborative physical activity, chatbots, and identity and fashion.</bio>
+
+    <degrees>
+                <degree>
+                        <abbrev>Ph.D.</abbrev>
+                        <subject>Advertising</subject>
+                        <graduation>Expected graduation year 2023</graduation>
+                        <school>University of Florida</school>
+			<details>
+			</details>        
+        	</degree>
+
+		<degree>
+                        <abbrev>MSc</abbrev>
+                        <subject>Marketing</subject>
+                        <graduation>2018</graduation>
+                        <school>University of Saskatchewan</school>
+                        <details>
+                        </details>
+                </degree>
+
+		<degree>
+                        <abbrev>B.S. (Honours)</abbrev>
+                        <subject>Political Science</subject>
+                        <graduation>2013</graduation>
+                        <school>University of Saskatchewan</school>
+                        <details>
+                        </details>
+                </degree>
+    </degrees>
+
+</xml>
