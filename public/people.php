@@ -183,7 +183,7 @@
 
 			<li><a href="person.php?id=wesly">
                 <img class="people_img"
-                src="people/wesly.jpg"
+                src="people/wesly.png"
                 alt="Wesly Menard">
                 <p class="people_txt"><span class="people_name">Wesly Menard<br></span>
                 Ph.D. Student
