@@ -213,6 +213,30 @@
 			
 		</ul>
 
+		<li><a href="person.php?id=alexj">
+				<img class="people_img"
+				src="people/alexj.jpg"
+				alt="Alex Johnson">
+				<p class="people_txt"><span class="people_name">Alex Johnson<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
+			
+		</ul>
+
+		<li><a href="person.php?id=nandika">
+				<img class="people_img"
+				src="people/nandika.jpeg"
+				alt="Nandika Regatti">
+				<p class="people_txt"><span class="people_name">Nandika Regatti<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
+			
+		</ul>
+
         <p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
 
