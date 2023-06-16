@@ -273,7 +273,7 @@
 		
 			<li><a href="person.php?id=alexj">
 				<img class="people_img"
-				src="people/alexj.jpg"
+				src="people/alexj.jpeg"
 				alt="Alex Johnson">
 				<p class="people_txt"><span class="people_name">Alex Johnson<br></span>
 				B.S. Student
@@ -283,7 +283,7 @@
 
 		<li><a href="person.php?id=nandika">
 				<img class="people_img"
-				src="people/nandika.jpeg"
+				src="people/nandika.jpg"
 				alt="Nandika Regatti">
 				<p class="people_txt"><span class="people_name">Nandika Regatti<br></span>
 				B.S. Student
