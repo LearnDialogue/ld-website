@@ -213,30 +213,6 @@
 			
 		</ul>
 
-		<li><a href="person.php?id=alexj">
-				<img class="people_img"
-				src="people/alexj.jpg"
-				alt="Alex Johnson">
-				<p class="people_txt"><span class="people_name">Alex Johnson<br></span>
-				B.S. Student
-				<br>Computer Science
-				<br>University of Florida</p>
-	     	</a></li>	
-			
-		</ul>
-
-		<li><a href="person.php?id=nandika">
-				<img class="people_img"
-				src="people/nandika.jpeg"
-				alt="Nandika Regatti">
-				<p class="people_txt"><span class="people_name">Nandika Regatti<br></span>
-				B.S. Student
-				<br>Computer Science
-				<br>University of Florida</p>
-	     	</a></li>	
-			
-		</ul>
-
         <p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
 
@@ -273,7 +249,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li> 
-	-->		
+			
 	<li><a href="person.php?id=abe">
                 <img class="people_img"
                 src="people/abe.jpg"
@@ -283,6 +259,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li> 
+	-->
 			
 	<li><a href="person.php?id=carly">
                 <img class="people_img"
@@ -293,9 +270,38 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li> 
+		
+			<li><a href="person.php?id=alexj">
+				<img class="people_img"
+				src="people/alexj.jpg"
+				alt="Alex Johnson">
+				<p class="people_txt"><span class="people_name">Alex Johnson<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
+
+		<li><a href="person.php?id=nandika">
+				<img class="people_img"
+				src="people/nandika.jpeg"
+				alt="Nandika Regatti">
+				<p class="people_txt"><span class="people_name">Nandika Regatti<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
 			
-			
-		</ul>
+
+
+		<li><a href="person.php?id=chandler">
+				<img class="people_img"
+				src="people/chandler.jpg"
+				alt="Chandler Wiggins">
+				<p class="people_txt"><span class="people_name">Chandler Wiggins<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
 
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
