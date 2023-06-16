@@ -110,7 +110,11 @@ function hasPublication($userID) {
 		"amit",
 		"toni",
 		"wesly",
-		"lincoln"
+		"lincoln",
+		"sunny",
+		"alexj",
+		"nandika",
+		"chandler"
 
 	);
 
