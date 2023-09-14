@@ -281,6 +281,7 @@
 				<br>University of Florida</p>
 	     	</a></li>	
 
+<!--
 		<li><a href="person.php?id=nandika">
 				<img class="people_img"
 				src="people/nandika.jpg"
@@ -290,7 +291,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
-			
+-->			
 
 
 		<li><a href="person.php?id=chandler">
