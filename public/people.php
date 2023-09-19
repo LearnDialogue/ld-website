@@ -192,7 +192,7 @@
 
 	<li><a href="person.php?id=mollie">
             	<img class="people_img"
-                src="people/mollie.jpg"
+                src="people/mollie.jpeg"
                 alt="Mollie Brewer">
                 <p class="people_txt"><span class="people_name">Mollie Brewer<br></span>
                 Ph.D. Student
