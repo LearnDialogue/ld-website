@@ -189,6 +189,17 @@
                 Ph.D. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
+
+	<li><a href="person.php?id=mollie">
+            	<img class="people_img"
+                src="people/mollie.jpg"
+                alt="Mollie Brewer">
+                <p class="people_txt"><span class="people_name">Mollie Brewer<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+				
             </a></li>
 		<!--	
 		<li><a href="person.php?id=amit">
