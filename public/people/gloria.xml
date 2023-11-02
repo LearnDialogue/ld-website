@@ -36,7 +36,7 @@ Gloria Ashiya Katuka is a Ph.D. candidate advised by Dr. Kristy Boyer in the Dep
 <graduation>2020</graduation>
 <school>University of Florida</school>
 </degree>
-
+<!--
 </degree>
 <degree>
 <abbrev>M.S.</abbrev>
@@ -44,7 +44,7 @@ Gloria Ashiya Katuka is a Ph.D. candidate advised by Dr. Kristy Boyer in the Dep
 <graduation>2023</graduation>
 <school>University of Florida</school>
 </degree> 
-	
+-->	
 <degree>
 <abbrev>B.S.</abbrev>
 <subject>Information Systems and Operations Management</subject>
