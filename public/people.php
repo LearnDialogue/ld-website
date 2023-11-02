@@ -136,7 +136,7 @@
                 src="people/gloria.jpg"
                 alt="Gloria Katuka">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
-                Ph.D. Student
+                Ph.D. Candidate
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
