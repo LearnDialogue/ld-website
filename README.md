@@ -69,6 +69,7 @@ questions or make suggestions on our [forum][Forum].
 
 [Forum]: https://forums.aws.amazon.com/forum.jspa?forumID=248
 
+
 How Do I Add Template Resources to My Project?
 ------------------
 
