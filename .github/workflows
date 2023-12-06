@@ -29,6 +29,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.DEPLOY_KEY }}
         script: |
-          cd /path/to/your/app
+          cd /var/www/http
           composer install --no-dev
           php artisan cache:clear
