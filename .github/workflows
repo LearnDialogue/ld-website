@@ -20,7 +20,7 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.DEPLOY_KEY }}
         source: "."
-        target: "/var/www/http"
+        target: "/var/www/html"
 
     - name: Execute deployment script
       uses: appleboy/ssh-action@master
@@ -29,6 +29,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.DEPLOY_KEY }}
         script: |
-          cd /var/www/http
+          cd /var/www/html
           composer install --no-dev
           php artisan cache:clear
