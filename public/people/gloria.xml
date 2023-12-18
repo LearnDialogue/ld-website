@@ -16,28 +16,39 @@
 	Undergraduate Researcher
 	Postdoctoral Research Associate
 -->
-<position>Ph.D. Student</position>
+<position>Ph.D. Candidate</position>
 <program>Computer Science</program>
 <school>University of Florida</school>
 <email>gkatuka@ufl.edu</email>
 <bio>
-Gloria Ashiya Katuka is a Ph.D. student advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. Her research interests include trainable conversational AI, collaborative dialogue, game-based learning, pair programming, mobile computer-supported collaborative learning, and CS/AI education. Currently, she is a part of the Camp DIALOGS project, providing learning opportunities for middle school students to design and develop conversational agents using computer science and artificial intelligence.</bio>
+Gloria Ashiya Katuka is a Ph.D. candidate advised by Dr. Kristy Boyer in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. Her research interests include collaborative dialogue, natural language processing, machine learning, transfer learning &amp; domain adaptation, federated learning, collaborative learning, pair programming, and CS &amp; AI education. Currently, she is a part of the IntegrateAI project, providing AI learning opportunities for middle school students through introducing and applying natural language processing techniques, concepts and practices in middle school science classrooms.
+</bio>
+
 <degrees>
 <degree>
 <abbrev>Ph.D.</abbrev>
 <subject>Computer Science</subject>
 <graduation>Expected 2024</graduation>
 <school>University of Florida</school>
-</degree>
+</degree> 
+
 <degree>
 <abbrev>M.S.</abbrev>
-<subject>Information Systems</subject>
+<subject>Computer Science</subject>
+<graduation>2023</graduation>
+<school>University of Florida</school>
+</degree> 
+	
+<degree>
+<abbrev>M.S.</abbrev>
+<subject>Information Systems and Operations Management</subject>
 <graduation>2020</graduation>
 <school>University of Florida</school>
 </degree>
+		
 <degree>
 <abbrev>B.S.</abbrev>
-<subject>Information Systems and Operations Management</subject>
+<subject>Information Systems</subject>
 <graduation>2019</graduation>
 <school>University of Florida</school>
 </degree>

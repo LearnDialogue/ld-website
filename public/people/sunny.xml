@@ -1,0 +1,56 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Sunny Dhama</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<name>Sunny</name>
+<name>S. Dhama</name>
+</names>
+<sort_name>Dhama</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>M.S. Student</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>sunny.dhama@ufl.edu</email>
+<bio>
+<!--HOW TO WRITE YOUR BIO: 
+
+You can play with the order of this info a bit but you should include all of this information. THIRD PERSON is not optional.
+
+0. Write in third person.
+
+1. Say what program you're in at UF, who your advisor is, what degrees you already have and where you got them. 
+
+2. If you're being funded by a prestigious fellowship or scholarship, like the NSF Graduate Research Fellowship, you can list that too. 
+
+3. Characterize your relevant background/skill set (maybe you worked as a teacher, a software engineer, or had done previous research). 
+
+4. State your research focus over the past semester/year - if you're new to the group, talk to your mentor/project teammates about what might be good to put here or check out their bios for inspiration.
+
+5. Go back and make sure it's ALL in third person!-->
+Sunny Dhama is a graduate student in Computer Science. He is a part of the Project DIALOGS project and Integrate AI building feature rich and easy to use technology for middle school students. His research interests include Computer Security,  Machine Learning and Artificial Intelligence.
+
+
+</bio>
+<degrees>
+  <degree>
+<!--Abbreviations are B.S., B.A., M.S., etc-->
+    <abbrev>M.S.</abbrev>
+    <subject>Computer Science</subject>
+    <graduation>Expected 2024</graduation>
+    <school>University of Florida</school>
+  </degree>
+
+  <degree>
+   <abbrev>B.Tech.</abbrev>
+   <subject>Computer Science</subject>
+   <graduation>2021</graduation>
+   <school>Jaypee Institute of Information Technology, India</school>
+  </degree>
+</degrees>
+</xml>

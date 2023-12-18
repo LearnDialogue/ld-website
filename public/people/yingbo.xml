@@ -4,13 +4,13 @@
 </names>
 <sort_name>Ma</sort_name>
 
-<position>Ph.D. Student</position>
+<position>Ph.D. Candidate</position>
 <program>Computer Science</program>
 <school>University of Florida</school>
 <email>yingbo.ma@ufl.edu</email>
-<bio>
-Yingbo is a Ph.D. student in Computer Science advised by Dr. Kristy Boyer. Before coming to the University of Florida, he graduated from the Northwestern Polytechnical University in Xi'an, China, where he obtained his master's degree in signal processing. Previously, he mainly researched the audio signal enhancement and nonlinear active noise control using different adaptive filtering algorithms. Currently, he is part of the FLECKS project.
-</bio>
+<bio> Yingbo is a senior Computer Science Ph.D. student in the Department of Computer &amp; Information Science &amp; Engineering at the University of Florida. His broad research interests include speech processing, natural language processing, and multimodal machine learning. 
+Under the supervision of Dr. Kristy Boyer, his research work focuses on how multimodal data mining can empower intelligent systems to understand human learning and support collaboration. He designs and applies multimodal data mining and machine learning to understand students’ dynamic learning processes in classrooms by analyzing their collaborative dialogues, speech, facial expressions, and gestures. Yingbo also engages in interdisciplinary collaboration with researchers and educators to develop intelligent systems that support collaborative learning in computer science. 
+Apart from research, Yingbo has served as sub-reviewer for multiple international conferences, including as the International Conference on Educational Data Mining (EDM), International Conference on Learning Analytics and Knowledge (LAK), and AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI). In Spring 2023, he is serving as instructor for undergraduate course CIS 4930: Intro to Multimodal Machine Learning in Python. </bio>
 <degrees>
 <degree>
 <abbrev>Ph.D.</abbrev>

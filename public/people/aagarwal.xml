@@ -1,0 +1,33 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Amogh Agarwal</name>
+<name>Amogh Agarwal</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+</names>
+<sort_name>Agarwal</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Undergraduate Researcher</position>
+<program>Human-Centered Computing</program>
+<school>University of Florida</school>
+<email>amoghagarwal@ufl.edu</email>
+<bio>
+Amogh is a senior undergraduate student at the University of Florida studying data science and mathematics. Amogh has experience working as a software engineer and data scientist through internships and part-time industry work. After graduation he plans to further develop his research experience and pursue a Ph.D. in statistics.
+
+Previously, he researched ways to utilize Impact Network Analysis to visualize and evaluate the effect of new information in linked socioeconomic and biophysical networks.
+</bio>
+
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Data Science and Mathematics</subject>
+<graduation>Expected 2023</graduation>
+<school>University of Florida</school>
+</degree>
+</degrees>
+</xml>

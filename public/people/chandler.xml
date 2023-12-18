@@ -1,0 +1,24 @@
+<xml>
+<names>
+<name>Chandler T Wiggins</name>
+<name>Chandler Terrell Wiggins</name>
+
+</names>
+<sort_name>Wiggins</sort_name>
+
+<position>Student</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>c.wiggins@ufl.edu</email>
+<bio>
+Chandler is an undergraduate student at the University of Florida majoring in Computer Science from Tampa, Florida. Within computer science, he is especially interested in AI and its application to businesses. He is currently working on the Project DIALOGS project under Ph.D. Student, Xiaoyi Tian.
+</bio>
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Computer Science</subject>
+<graduation>Expected 2025</graduation>
+<school>University of Florida</school>
+</degree>
+</degrees>
+</xml>

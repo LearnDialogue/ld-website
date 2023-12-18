@@ -21,7 +21,7 @@
 				src="people/keboyer.png"
 				alt="Kristy Elizabeth Boyer">
 				<p class="people_txt"><span class="people_name">Kristy Elizabeth Boyer<br></span>
-				Associate Professor
+				Professor
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
@@ -62,7 +62,17 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-
+			
+		 <li><a href="person.php?id=lincoln">
+                <img class="people_img"
+                src="people/lincoln.jpg"
+                alt="Lincoln Lu">
+                <p class="people_txt"><span class="people_name">Lincoln Lu<br></span>
+                Research Scientist
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li> 
+            <!--
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
 				src="people/nick.png"
@@ -72,7 +82,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		-->
 			<li><a href="person.php?id=jule">
 				<img class="people_img"
 				src="people/jule.jpg"
@@ -92,7 +102,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		<!--
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
 				src="people/jbwiggi3.jpg"
@@ -102,7 +112,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+		-->
 		</ul>
 
 		<p class="clear">&nbsp;</p>
@@ -126,7 +136,7 @@
                 src="people/gloria.jpg"
                 alt="Gloria Katuka">
                 <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
-                Ph.D. Student
+                Ph.D. Candidate
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
@@ -160,12 +170,53 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
-            
+
+			<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Toni Earle-Randell">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+
+			<li><a href="person.php?id=wesly">
+                <img class="people_img"
+                src="people/wesly.jpg"
+                alt="Wesly Menard">
+                <p class="people_txt"><span class="people_name">Wesly Menard<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+
+	<li><a href="person.php?id=mollie">
+            	<img class="people_img"
+                src="people/mollie.jpeg"
+                alt="Mollie Brewer">
+                <p class="people_txt"><span class="people_name">Mollie Brewer<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+				
+            </a></li>
+		<!--	
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
 				src="people/amit.jpg"
 				alt="Amit Kumar">
 				<p class="people_txt"><span class="people_name">Amit Kumar<br></span>
+				M.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
+		-->	
+		<li><a href="person.php?id=sunny">
+				<img class="people_img"
+				src="people/sunny.jpg"
+				alt="Sunny Dhama">
+				<p class="people_txt"><span class="people_name">Sunny Dhama<br></span>
 				M.S. Student
 				<br>Computer Science
 				<br>University of Florida</p>
@@ -179,16 +230,7 @@
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
 		
-		<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Toni Earle-Randell">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                B.S. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
-			
+	<!--	
 		<li><a href="person.php?id=john">
                 <img class="people_img"
                 src="people/john.jpg"
@@ -208,8 +250,70 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>		
-					
-		</ul>
+	
+	<li><a href="person.php?id=aagarwal">
+                <img class="people_img"
+                src="people/aagarwal.jpeg"
+                alt="Amogh Argawal">
+                <p class="people_txt"><span class="people_name">Amogh Agarwal<br></span>
+                B.S. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li> 
+			
+	<li><a href="person.php?id=abe">
+                <img class="people_img"
+                src="people/abe.jpg"
+                alt="Abraham Banos">
+                <p class="people_txt"><span class="people_name">Abraham Banos<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li> 
+	-->
+			
+	<li><a href="person.php?id=carly">
+                <img class="people_img"
+                src="people/carly.jpg"
+                alt="Carly Solomon">
+                <p class="people_txt"><span class="people_name">Carly Solomon<br></span>
+                B.S. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li> 
+		
+			<li><a href="person.php?id=alexj">
+				<img class="people_img"
+				src="people/alexj.jpeg"
+				alt="Alex Johnson">
+				<p class="people_txt"><span class="people_name">Alex Johnson<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
+
+<!--
+		<li><a href="person.php?id=nandika">
+				<img class="people_img"
+				src="people/nandika.jpg"
+				alt="Nandika Regatti">
+				<p class="people_txt"><span class="people_name">Nandika Regatti<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
+-->			
+
+
+		<li><a href="person.php?id=chandler">
+				<img class="people_img"
+				src="people/chandler.jpg"
+				alt="Chandler Wiggins">
+				<p class="people_txt"><span class="people_name">Chandler Wiggins<br></span>
+				B.S. Student
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
 
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>

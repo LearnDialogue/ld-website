@@ -26,25 +26,25 @@
 			</a>
 			
 			</li>
+
+			<li>
+				
+				<a href="project.php?id=CollabSport">
+				
+				<img src="projects/CollabSport.png" alt="CollabSport">
+				<span class"thumb_txt"><h3>Collaborative Sport</h3>
+				Real time analytics for collaboration in endurance sports
+			</a>
+			
+			</li>
 			
 			<li>
 				
 				<a href="project.php?id=CampDIALOGS">
 				
-				<img src="projects/CampDIALOGS.png" alt="CampDIALOGS">
-				<span class"thumb_txt"><h3>Camp DIALOGS</h3>
+				<img src="projects/CampDIALOGS.png" alt="Project DIALOGS">
+				<span class"thumb_txt"><h3>Project DIALOGS</h3>
 					Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
-			</a>
-			
-			</li>
-				
-				<li>
-				
-				<a href="project.php?id=CUE">
-				
-				<img src="projects/CUE.png" alt="CUE">
-				<span class"thumb_txt"><h3>CUE</h3>
-					Collaborative Research: Effective Peer Teaching Across Computing Pathways (National Science Foundation, DUE-1935111)
 			</a>
 			
 			</li>
@@ -74,6 +74,17 @@
 			
 			<!-- Completed projects -->
 			<li><h2>completed projects</h2></li>
+
+			<li>
+				
+				<a href="project.php?id=CUE">
+				
+				<img src="projects/CUE.png" alt="CUE">
+				<span class"thumb_txt"><h3>CUE</h3>
+					Collaborative Research: Effective Peer Teaching Across Computing Pathways (National Science Foundation, DUE-1935111)
+			</a>
+			
+			</li>
 			
 			<li>
 				
