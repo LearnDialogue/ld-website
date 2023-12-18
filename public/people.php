@@ -92,7 +92,8 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-				
+
+		<!--	
 			<li><a href="person.php?id=lydia">
 				<img class="people_img"
 				src="people/lydia.jpeg"
@@ -102,6 +103,8 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+		-->
+			
 		<!--
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
