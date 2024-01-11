@@ -284,7 +284,8 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li> 
-		
+			
+<!--		
 			<li><a href="person.php?id=alexj">
 				<img class="people_img"
 				src="people/alexj.jpeg"
@@ -295,7 +296,7 @@
 				<br>University of Florida</p>
 	     	</a></li>	
 
-<!--
+
 		<li><a href="person.php?id=nandika">
 				<img class="people_img"
 				src="people/nandika.jpg"
@@ -305,9 +306,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
--->			
-
-
+			
 		<li><a href="person.php?id=chandler">
 				<img class="people_img"
 				src="people/chandler.jpg"
@@ -317,7 +316,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
-
+-->
 		<p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
 
