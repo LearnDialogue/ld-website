@@ -48,8 +48,12 @@
 			</a>
 			
 			</li>
-				
-			<li>
+			
+			
+			<!-- Completed projects -->
+			<li><h2>completed projects</h2></li>
+
+<li>
 				
 				<a href="project.php?id=earsketch">
 				
@@ -71,10 +75,7 @@
 			</a>
 			
 			</li>
-			
-			<!-- Completed projects -->
-			<li><h2>completed projects</h2></li>
-
+					
 			<li>
 				
 				<a href="project.php?id=CUE">
