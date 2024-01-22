@@ -52,7 +52,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-
+<!--
 		    <li><a href="person.php?id=mcelepk">
                 <img class="people_img"
                 src="people/mcelepk.jpg"
@@ -62,7 +62,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-			
+-->			
 		 <li><a href="person.php?id=lincoln">
                 <img class="people_img"
                 src="people/lincoln.jpg"
@@ -143,7 +143,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-
+<!--
             <li><a href="person.php?id=yingbo">
                 <img class="people_img"
                 src="people/yingbo.jpg"
@@ -153,7 +153,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-
+-->
 	    	<li><a href="person.php?id=amannekote">
                 <img class="people_img"
                 src="people/amannekote.jpg"
