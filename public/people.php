@@ -88,7 +88,7 @@
 				src="people/jule.jpg"
 				alt="Julianna Martinez">
 				<p class="people_txt"><span class="people_name">Julianna Martinez Ruiz<br></span>
-				Research Facilitator
+				Digital Artist
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
