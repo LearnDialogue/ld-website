@@ -123,7 +123,27 @@
 
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
-			
+
+		<li><a href="person.php?id=mollie">
+            	<img class="people_img"
+                src="people/mollie.jpeg"
+                alt="Mollie Brewer">
+                <p class="people_txt"><span class="people_name">Mollie Brewer<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+                </a></li>
+
+			<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Toni Earle-Randell">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+
 			<li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
@@ -163,26 +183,6 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-			
-	    	<li><a href="person.php?id=xiaoyi">
-				<img class="people_img"
-				src="people/xiaoyi.JPG"
-				alt="Xiaoyi Tian">
-				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
-				Ph.D. Candidate
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-	     	</a></li>
-
-			<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Toni Earle-Randell">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                Ph.D. Student
-                <br>Human-Centered Computing
-                <br>University of Florida</p>
-            </a></li>
 
 			<li><a href="person.php?id=wesly">
                 <img class="people_img"
@@ -191,19 +191,18 @@
                 <p class="people_txt"><span class="people_name">Wesly Menard<br></span>
                 Ph.D. Student
                 <br>Human-Centered Computing
-                <br>University of Florida</p>
+                <br>University of Florida</p>				
+            </a></li>
 
-	<li><a href="person.php?id=mollie">
-            	<img class="people_img"
-                src="people/mollie.jpeg"
-                alt="Mollie Brewer">
-                <p class="people_txt"><span class="people_name">Mollie Brewer<br></span>
-                Ph.D. Student
-                <br>Human-Centered Computing
-                <br>University of Florida</p>
-            </a></li>
-				
-            </a></li>
+				    	<li><a href="person.php?id=xiaoyi">
+				<img class="people_img"
+				src="people/xiaoyi.JPG"
+				alt="Xiaoyi Tian">
+				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
+				Ph.D. Candidate
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
+	     	</a></li>
 		<!--	
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
