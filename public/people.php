@@ -169,7 +169,7 @@
 				src="people/xiaoyi.JPG"
 				alt="Xiaoyi Tian">
 				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
-				Ph.D. Student
+				Ph.D. Candidate
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
