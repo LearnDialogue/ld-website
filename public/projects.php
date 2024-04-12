@@ -21,7 +21,7 @@
 				<a href="project.php?id=INVITE">
 				
 				<img src="projects/INVITE.png" alt="INVITE">
-				<span class"thumb_txt"><h3>INVITE Institute - Inclusive Intelligent Technologies for Education - INVITE Institute</h3>
+				<span class"thumb_txt"><h3>INVITE Institute - Inclusive Intelligent Technologies for Education</h3>
 					The INVITE Institute (INclusiVe Intelligent Technologies for Education) seeks to fundamentally reframe how AI-based educational technologies interact with learners.
 			</a>
 			
