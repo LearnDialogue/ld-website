@@ -15,7 +15,7 @@
 		<ul id="project_list">
 			
 			<li><h2>active projects</h2></li>
-			
+
 			<li>
 				
 				<a href="project.php?id=IntegrateAI">
@@ -23,6 +23,17 @@
 				<img src="projects/IntegrateAI.png" alt="IntegrateAI">
 				<span class"thumb_txt"><h3>IntegrateAI</h3>
 					Integrating AI Learning into Middle School Science through Natural Language Processing (Funding: National Science Foundation NSF 19-583, DRL-2147810)
+			</a>
+			
+			</li>
+
+			<li>
+				
+				<a href="project.php?id=AI-EmpoweredAthlete">
+				
+				<img src="projects/AI-EmpoweredAthlete.png" alt="AI-EmpoweredAthlete">
+				<span class"thumb_txt"><h3>AI Empowered Athlete</h3>
+					AI-Empowered Athletics - Athletics based on the wearable sensor and health data of student-athletes
 			</a>
 			
 			</li>
