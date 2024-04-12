@@ -22,7 +22,7 @@
 				
 				<img src="projects/INVITE.png" alt="INVITE">
 				<span class"thumb_txt"><h3>INVITE Institute - Inclusive Intelligent Technologies for Education - INVITE Institute</h3>
-					The INVITE Institute (INclusiVe Intelligent Technologies for Education) seeks to fundamentally reframe how AI-based educational technologies interact with learners. We develop AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration.
+					The INVITE Institute (INclusiVe Intelligent Technologies for Education) seeks to fundamentally reframe how AI-based educational technologies interact with learners.
 			</a>
 			
 			</li>
