@@ -41,9 +41,9 @@
 
 			<li>
 				
-				<a href="project.php?id=ConneXX">
+				<a href="project.php?id=connexx">
 				
-				<img src="projects/ConneXX.png" alt="ConneXX">
+				<img src="projects/CollabSport.png" alt="ConneXX">
 				<span class"thumb_txt"><h3>ConneXX</h3>
 					ConneXX - Real-time biometric displays for collaboration in endurance sports
 			</a>
