@@ -38,6 +38,18 @@
 			
 			</li>
 
+
+			<li>
+				
+				<a href="project.php?id=ConneXX">
+				
+				<img src="projects/ConneXX.png" alt="ConneXX">
+				<span class"thumb_txt"><h3>ConneXX</h3>
+					ConneXX - Real-time biometric displays for collaboration in endurance sports
+			</a>
+			
+			</li>
+					
 			<li>
 				
 				<a href="project.php?id=AI-EmpoweredAthlete">
