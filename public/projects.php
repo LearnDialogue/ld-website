@@ -56,7 +56,7 @@
 				
 				<img src="projects/AI-EmpoweredAthlete.png" alt="AI-EmpoweredAthlete">
 				<span class"thumb_txt"><h3>AI Empowered Athlete</h3>
-					AI-Empowered Athletics - Athletics based on the wearable sensor and health data of student-athletes
+					Supporting student-athlete wellness and performance using data and AI
 			</a>
 			
 			</li>
