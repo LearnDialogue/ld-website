@@ -38,7 +38,7 @@
 			
 			</li>
 
-
+		<!--
 			<li>
 				
 				<a href="project.php?id=connexx">
@@ -49,7 +49,7 @@
 			</a>
 			
 			</li>
-					
+		-->	
 			<li>
 				
 				<a href="project.php?id=AI-EmpoweredAthlete">
