@@ -1,10 +1,14 @@
 <xml>
 	<name>INVITE Institute - Inclusive Intelligent Technologies for Education</name>
 	<sort_id>1</sort_id>
-	<tagline>The INVITE Institute (INclusiVe Intelligent Technologies for Education) seeks to fundamentally reframe how AI-based educational technologies interact with learners.</tagline>
+	<tagline>INVITE seeks to fundamentally reframe how AI-based educational technologies interact with learners. We develop AI techniques to track and promote skills that underlie successful learning and contribute to academic success: persistence, academic resilience, and collaboration.</tagline>
 	<description>
 	&lt;p&gt;&lt;h4&gt;Project Introduction&lt;/h4&gt;
-	&lt;p&gt;This NSF AI Research Institute proposal addresses Theme 6A by proposing the INVITE Institute (INclusive and innoVative Intelligent Technologies for Education) to address the grand challenge of “Education for All”. Research will invent, investigate, and deploy novel AI-augmented learning technologies and foundational AI techniques to address the needs of learners who are underserved and underrepresented in STEM. INVITE seeks fundamental change in how educational technologies interact with learners by developing AI techniques that track and promote “non-cognitive” skills that contribute to academic success. INVITE brings together a highly interdisciplinary and internationally-recognized team of researchers with expertise in AI, the learning sciences, psychology, and broadening participation with a network of diverse schools, districts and community partners to pursue these critical challenges.&lt;p&gt;
+	&lt;p&gt;This NSF AI Research Institute is inventing, investigating, and deploying novel AI-augmented learning technologies and foundational AI techniques to address the needs of learners who are underserved and underrepresented in STEM. INVITE brings together a highly interdisciplinary and internationally-recognized team of researchers with expertise in AI, the learning sciences, psychology, and broadening participation with a network of diverse schools, districts and community partners to pursue these critical challenges. INVITE’s long-term research vision is to lay a foundation for a new generation of AI-augmented learning that supports learners in holistic ways.&lt;p&gt;
 
+		&lt;p&gt;&lt;h4&gt;Project Description&lt;/h4&gt;
+	&lt;p&gt;INVITE’s research is pursuing foundational AI advances in robust and fair machine learning, cognitive architectures, and natural language understanding and use-inspired research focusing classroom integration of a suite of INVITE STEM learning platforms. Research will revolve around three interconnected strands: (1) Collect, analyze, and share novel datasets for AI to enable foundational AI advances in fair and robust machine learning and natural language understanding. Driving principles will emphasize representativeness, consistency, and shareability; (2) Build novel, robust methods for understanding learner behaviors and persistent, integrated learner models that incorporate novel assessments of noncognitive skills. (3) Develop new inclusive, socially-aware STEM learning environments that provide natural and adaptive interaction with socially aware pedagogical agents. 	&lt;p&gt;
+
+&lt;p&gt;Learn more at the &lt;a href=https://invite.illinois.edu/&gt;INVITE Institute website.&lt;/p&gt;		
 	</description>
 </xml>
