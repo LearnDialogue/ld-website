@@ -13,7 +13,7 @@
 	Undergraduate Researcher
 	Postdoctoral Research Associate
 -->
-<position>M.S. Student</position>
+<position>Senior Software Engineer</position>
 <program>Computer Science</program>
 <school>University of Florida</school>
 <email>sunny.dhama@ufl.edu</email>
@@ -42,7 +42,7 @@ Sunny Dhama is a graduate student in Computer Science. He is a part of the Proje
 <!--Abbreviations are B.S., B.A., M.S., etc-->
     <abbrev>M.S.</abbrev>
     <subject>Computer Science</subject>
-    <graduation>Expected 2024</graduation>
+    <graduation>2024</graduation>
     <school>University of Florida</school>
   </degree>
 

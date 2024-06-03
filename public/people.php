@@ -33,7 +33,7 @@
 		<!-- Staff -->
 		<ul class="people_list">
 		
-			<li><a href="person.php?id=maedeh">
+			<!-- <li><a href="person.php?id=maedeh">
 				<img class="people_img"
 				src="people/maedeh.jpg"
 				alt="Maedeh Agharazidermani">
@@ -41,7 +41,7 @@
 				Postdoctoral Associate
 				<br>Computer Science
 				<br>University of Florida</p>
-			</a></li>
+			</a></li> -->
 			
 			<li><a href="person.php?id=timothy">
 				<img class="people_img"
@@ -52,6 +52,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+
+			<li><a href="person.php?id=sunny">
+				<img class="people_img"
+				src="people/sunny.jpeg"
+				alt="Sunny Dhama">
+				<p class="people_txt"><span class="people_name">Sunny Dhama<br></span>
+					Senior Software Engineer
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>	
 <!--
 		    <li><a href="person.php?id=mcelepk">
                 <img class="people_img"
@@ -63,7 +73,7 @@
                 <br>University of Florida</p>
             </a></li>
 -->			
-		 <li><a href="person.php?id=lincoln">
+		 	<li><a href="person.php?id=lincoln">
                 <img class="people_img"
                 src="people/lincoln.jpg"
                 alt="Lincoln Lu">
@@ -154,15 +164,6 @@
 				<br>University of Florida</p>
 			</a></li>
 
-			<li><a href="person.php?id=gloria">
-            	<img class="people_img"
-                src="people/gloria.jpg"
-                alt="Gloria Katuka">
-                <p class="people_txt"><span class="people_name">Gloria Ashiya Katuka<br></span>
-                Ph.D. Candidate
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
 <!--
             <li><a href="person.php?id=yingbo">
                 <img class="people_img"
@@ -214,15 +215,6 @@
 				<br>University of Florida</p>
 	     	</a></li>
 		-->	
-		<li><a href="person.php?id=sunny">
-				<img class="people_img"
-				src="people/sunny.jpg"
-				alt="Sunny Dhama">
-				<p class="people_txt"><span class="people_name">Sunny Dhama<br></span>
-				M.S. Student
-				<br>Computer Science
-				<br>University of Florida</p>
-	     	</a></li>	
 			
 		</ul>
 
@@ -274,7 +266,7 @@
             </a></li> 
 	-->
 			
-	<li><a href="person.php?id=carly">
+	<!-- <li><a href="person.php?id=carly">
                 <img class="people_img"
                 src="people/carly.jpg"
                 alt="Carly Solomon">
@@ -282,7 +274,7 @@
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
-            </a></li> 
+            </a></li>  -->
 			
 <!--		
 			<li><a href="person.php?id=alexj">
@@ -321,6 +313,7 @@
 
 		<h2>alumni</h2>
 		<table class="alumni_list">
+			<tr><td>Gloria Katuka</td><td>Ph.D., 2024</td><td>University of Florida</td></tr>
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
