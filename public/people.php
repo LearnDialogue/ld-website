@@ -275,6 +275,16 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>  -->
+
+		<li><a href="person.php?id=sam">
+                <img class="people_img"
+                src="people/sam-reasor.jpg"
+                alt="Sam Reasor">
+                <p class="people_txt"><span class="people_name">Sam Reasor<br></span>
+                B.S. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li> 
 			
 <!--		
 			<li><a href="person.php?id=alexj">
