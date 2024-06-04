@@ -276,7 +276,7 @@
                 <br>University of Florida</p>
             </a></li>  -->
 
-		<li><a href="person.php?id=sam">
+		<li><a href="person.php?id=sam-reasor">
                 <img class="people_img"
                 src="people/sam-reasor.jpg"
                 alt="Sam Reasor">
