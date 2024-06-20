@@ -97,7 +97,7 @@
 				<img class="people_img"
 				src="people/jule.jpg"
 				alt="Julianna Martinez">
-				<p class="people_txt"><span class="people_name">Julianna Martinez Ruiz<br></span>
+				<p class="people_txt"><span class="people_name">Julianna (Jule) Martinez Ruiz<br></span>
 				Digital Artist
 				<br>Computer Science
 				<br>University of Florida</p>
