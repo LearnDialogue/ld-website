@@ -159,7 +159,7 @@
 				src="people/amanda.JPG"
 				alt="Amanda Griffith">
 				<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
-				Ph.D. Student
+				Ph.D. Candidate
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
