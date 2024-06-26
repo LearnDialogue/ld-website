@@ -134,6 +134,46 @@
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 
+    	<li><a href="person.php?id=xiaoyi">
+				<img class="people_img"
+				src="people/xiaoyi.JPG"
+				alt="Xiaoyi Tian">
+				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
+				Ph.D. Candidate
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
+	     	</a></li>
+
+<li><a href="person.php?id=amanda">
+				<img class="people_img"
+				src="people/amanda.JPG"
+				alt="Amanda Griffith">
+				<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
+				Ph.D. Candidate
+				<br>Human-Centered Computing
+				<br>University of Florida</p>
+			</a></li>
+
+<li><a href="person.php?id=amannekote">
+                <img class="people_img"
+                src="people/amannekote.jpg"
+                alt="Amogh Mannekote">
+                <p class="people_txt"><span class="people_name">Amogh Mannekote<br></span>
+                Ph.D. Student
+                <br>Computer Science
+                <br>University of Florida</p>
+            </a></li>
+
+	<li><a href="person.php?id=toni">
+                <img class="people_img"
+                src="people/toni.jpeg"
+                alt="Toni Earle-Randell">
+                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+			
 		<li><a href="person.php?id=mollie">
             	<img class="people_img"
                 src="people/mollie.jpeg"
@@ -143,26 +183,6 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
                 </a></li>
-
-			<li><a href="person.php?id=toni">
-                <img class="people_img"
-                src="people/toni.jpeg"
-                alt="Toni Earle-Randell">
-                <p class="people_txt"><span class="people_name">Toni Earle-Randell<br></span>
-                Ph.D. Student
-                <br>Human-Centered Computing
-                <br>University of Florida</p>
-            </a></li>
-
-			<li><a href="person.php?id=amanda">
-				<img class="people_img"
-				src="people/amanda.JPG"
-				alt="Amanda Griffith">
-				<p class="people_txt"><span class="people_name">Amanda E Griffith<br></span>
-				Ph.D. Candidate
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-			</a></li>
 
 <!--
             <li><a href="person.php?id=yingbo">
@@ -175,16 +195,6 @@
                 <br>University of Florida</p>
             </a></li>
 -->
-	    	<li><a href="person.php?id=amannekote">
-                <img class="people_img"
-                src="people/amannekote.jpg"
-                alt="Amogh Mannekote">
-                <p class="people_txt"><span class="people_name">Amogh Mannekote<br></span>
-                Ph.D. Student
-                <br>Computer Science
-                <br>University of Florida</p>
-            </a></li>
-
 			<li><a href="person.php?id=wesly">
                 <img class="people_img"
                 src="people/wesly.jpg"
@@ -195,15 +205,7 @@
                 <br>University of Florida</p>				
             </a></li>
 
-				    	<li><a href="person.php?id=xiaoyi">
-				<img class="people_img"
-				src="people/xiaoyi.JPG"
-				alt="Xiaoyi Tian">
-				<p class="people_txt"><span class="people_name">Xiaoyi Tian<br></span>
-				Ph.D. Candidate
-				<br>Human-Centered Computing
-				<br>University of Florida</p>
-	     	</a></li>
+				
 		<!--	
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
