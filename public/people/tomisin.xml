@@ -1,0 +1,64 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>Oluwatomisin Obajemu</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+<name>Tomisin</name>
+<name>Oluwatomisin Obajemu</name>
+</names>
+<sort_name>Obajemu</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>M.S. Student</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>o.obajemu@ufl.edu</email>
+<bio>
+<!--HOW TO WRITE YOUR BIO: 
+
+You can play with the order of this info a bit but you should include all of this information. THIRD PERSON is not optional.
+
+0. Write in third person.
+
+1. Say what program you're in at UF, who your advisor is, what degrees you already have and where you got them. 
+
+2. If you're being funded by a prestigious fellowship or scholarship, like the NSF Graduate Research Fellowship, you can list that too. 
+
+3. Characterize your relevant background/skill set (maybe you worked as a teacher, a software engineer, or had done previous research). 
+
+4. State your research focus over the past semester/year - if you're new to the group, talk to your mentor/project teammates about what might be good to put here or check out their bios for inspiration.
+
+5. Go back and make sure it's ALL in third person!-->
+Oluwatomisin (Tomisin) is a PhD student at the University of Florida, advised by Dr. Kristy Boyer. Through his research, he aims to improve technology for users outside of the computer science population using standard human-centered computing research methods. He will be working on the IntegrateAI project to integrate artificial intelligence learning into middle school science education. His prior research was in the areas of adolescent online safety, natural user interactions (touch, gesture) for augmented reality and tangible interfaces, and human-AI interaction.
+
+Website: obajemu.com
+
+</bio>
+<degrees>
+  <degree>
+<!--Abbreviations are B.S., B.A., M.S., etc-->
+    <abbrev>B.S.</abbrev>
+    <subject>Computer Science</subject>
+    <graduation>2020</graduation>
+    <school>Babcock University</school>
+  </degree>
+
+  <degree>
+   <abbrev>M.S.</abbrev>
+   <subject>Computer Science</subject>
+   <graduation>2022</graduation>
+   <school>University of Central Florida</school>
+  </degree>
+
+   <degree>
+   <abbrev>Ph.D.</abbrev>
+   <subject>Human Centered Computing</subject>
+   <graduation>Expected 2027</graduation>
+   <school>University of Florida</school>
+  </degree>
+</degrees>
+</xml>
