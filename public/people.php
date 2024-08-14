@@ -183,6 +183,16 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
                 </a></li>
+	
+		<li><a href="person.php?id=tomisin">
+            	<img class="people_img"
+                src="people/tomisin.jpg"
+                alt="Oluwatomisin Obajemu">
+                <p class="people_txt"><span class="people_name">Oluwatomisin Obajemu<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+                </a></li>
 
 <!--
             <li><a href="person.php?id=yingbo">
