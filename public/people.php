@@ -208,8 +208,8 @@
 			<li><a href="person.php?id=wesly">
                 <img class="people_img"
                 src="people/wesly.jpg"
-                alt="Wesly Menard">
-                <p class="people_txt"><span class="people_name">Wesly Menard<br></span>
+                alt="Wesly Ménard">
+                <p class="people_txt"><span class="people_name">Wesly Ménard<br></span>
                 Ph.D. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>				
