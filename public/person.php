@@ -127,7 +127,7 @@ foreach($degrees as $degree){
 		if($userID == "wesly"){
 			echo "<h2>teaching</h2>";
 			echo "<table class=\"teaching\">";
-			echo "<tr><td class=\"first\">Fall 2024:</td><td> Individual Study in CISE: INDIVIDUAL STUDY (CIS 4905)</td></tr>";
+			echo "<tr><td class=\"first\">Fall 2024:</td><td> Individual Study in CISE: Individual Study (CIS 4905)</td></tr>";
 			echo "</table>";
 		}
 	?>
