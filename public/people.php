@@ -103,6 +103,16 @@
 				<br>University of Florida</p>
 			</a></li>
 
+			<li><a href="person.php?id=noah">
+				<img class="people_img"
+				src="people/noah.jpg"
+				alt="Noah Schroeder">
+				<p class="people_txt"><span class="people_name">Noah Schroeder<br></span>
+				Research Scientist
+				<br>Computer Science
+				<br>University of Florida</p>
+			</a></li>
+
 		<!--	
 			<li><a href="person.php?id=lydia">
 				<img class="people_img"
