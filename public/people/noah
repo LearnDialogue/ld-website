@@ -1,0 +1,44 @@
+<xml>
+	<names>
+		<!--The first name listed here is the one that will show on your individual page-->
+		<name>Noah L. Schroeder</name>
+		<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+		<name>Noah Schroeder</name>
+	</names>
+	<sort_name>Schroeder</sort_name>
+	<!--Here are the recognized positions you can choose from:
+	  Ph.D. Student
+		Ph.D. Candidate
+		Undergraduate Researcher
+		Postdoctoral Research Associate
+	-->
+	<position>Research Scientist</position>
+	<program>Computer Science</program>
+	<school>University of Florida</school>
+	<email>schroedern@ufl.edu</email>
+	<bio> Noah is a Research Scientist with the LearnDialogue group and serves as the Project Manager for the NSF National AI Institute for Inclusive Intelligent Technologies for Education. Before joining LearnDialogue, Noah served as a Professor of Educational Technology and Instructional Design at Wright State University. His research interests center around the design of educational technologies and research synthesis. He is particularly interested in meta-analysis and making meta-analysis more accessible to those who do not code in R. 
+	</bio>
+	<degrees>
+
+		<degree>
+			<abbrev>Ph.D</abbrev>
+			<subject>Education Psychology</subject>
+			<graduation>2013</graduation>
+			<school>Washington State University</school>
+		</degree>
+
+		<degree>
+			<abbrev>M.A.</abbrev>
+			<subject>Education Psychology</subject>
+			<graduation>2011</graduation>
+			<school>Washington State University</school>
+		</degree>
+
+		<degree>
+			<abbrev>B.S.</abbrev>
+			<subject>Biology</subject>
+			<graduation>2010</graduation>
+			<school>Colorado State University - Pueblo</school>
+		</degree>
+	</degrees>
+</xml>
