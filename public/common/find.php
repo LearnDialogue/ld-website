@@ -119,7 +119,8 @@ function hasPublication($userID) {
 		"maedeh",
 		"carly",
 		"mollie",
-		"tomisin"
+		"tomisin",
+		"noah"
 
 	);
 
