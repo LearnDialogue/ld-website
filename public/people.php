@@ -144,6 +144,7 @@
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 
+	<!-- 		
     	<li><a href="person.php?id=xiaoyi">
 				<img class="people_img"
 				src="people/xiaoyi.JPG"
@@ -153,7 +154,8 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
-
+-->
+			
 <li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
@@ -345,6 +347,7 @@
 
 		<h2>alumni</h2>
 		<table class="alumni_list">
+			<tr><td>Xiaoyi Tian</td><td>Ph.D., 2024</td><td>University of Florida</td></tr>
 			<tr><td>Gloria Katuka</td><td>Ph.D., 2024</td><td>University of Florida</td></tr>
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
 			<tr><td></td></tr>
