@@ -52,7 +52,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-
+<!--
 			<li><a href="person.php?id=sunny">
 				<img class="people_img"
 				src="people/sunny.jpeg"
@@ -62,6 +62,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>	
+-->			
 <!--
 		    <li><a href="person.php?id=mcelepk">
                 <img class="people_img"
