@@ -353,7 +353,7 @@
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
-			<tr><td>Yingbo Ma</td><td>Ph.D., 2023</td><td >University of Florida</td></tr> 
+			<tr><td>Yingbo Ma</td><td>Ph.D., 2023 - <a href="https://www.proquest.com/docview/2925355289?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses.">Dissertation</a> </td><td >University of Florida</td></tr> 
 			<tr><td>Kimberly M. Ying</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Fernando J. Rodríguez</td><td>Ph.D., 2021 - <a href="https://ufdc.ufl.edu/UFE0057941/00001">Dissertation</a></td><td>University of Florida</td></tr>
 			<tr><td>Joseph B. Wiggins</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
