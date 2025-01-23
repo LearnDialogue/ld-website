@@ -291,7 +291,7 @@
             </a></li> 
 	-->
 			
-	<!-- <li><a href="person.php?id=carly">
+	<li><a href="person.php?id=carly">
                 <img class="people_img"
                 src="people/carly.jpg"
                 alt="Carly Solomon">
@@ -299,7 +299,7 @@
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
-            </a></li>  -->
+            </a></li>
 
 		<li><a href="person.php?id=sam-reasor">
                 <img class="people_img"
