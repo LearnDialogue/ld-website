@@ -301,6 +301,7 @@
                 <br>University of Florida</p>
             </a></li>
 
+<!--
 		<li><a href="person.php?id=sam-reasor">
                 <img class="people_img"
                 src="people/sam-reasor.jpg"
@@ -311,7 +312,7 @@
                 <br>University of Florida</p>
             </a></li> 
 			
-<!--		
+		
 			<li><a href="person.php?id=alexj">
 				<img class="people_img"
 				src="people/alexj.jpeg"
