@@ -289,7 +289,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li> 
-	-->
+	
 			
 	<li><a href="person.php?id=carly">
                 <img class="people_img"
@@ -300,7 +300,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
-
+-->
 <!--
 		<li><a href="person.php?id=sam-reasor">
                 <img class="people_img"
