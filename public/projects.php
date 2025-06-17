@@ -55,7 +55,7 @@
 				<a href="project.php?id=AI-EmpoweredAthlete">
 				
 				<img src="projects/AI-EmpoweredAthlete.png" alt="AI-EmpoweredAthlete">
-				<span class"thumb_txt"><h3>AI Empowered Athlete</h3>
+				<span class"thumb_txt"><h3>AI Empowered Athletics</h3>
 					Supporting student-athlete wellness and performance using data and AI
 			</a>
 			
