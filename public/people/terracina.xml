@@ -1,0 +1,32 @@
+<xml>
+<names>
+<!--The first name listed here is the one that will show on your individual page-->
+<name>John Terracina</name>
+<name>John P Terracina</name>
+<name>John Preston Terracina</name>
+<!--Additional names are just to be extra-sure that any way your name would show up on a pub, it gets linked to you-->
+</names>
+<sort_name>Terracina</sort_name>
+<!--Here are the recognized positions you can choose from:
+   Ph.D. Student
+	Ph.D. Candidate
+	Undergraduate Researcher
+	Postdoctoral Research Associate
+-->
+<position>Application Programmer II</position>
+<program>Computer Science</program>
+<school>University of Florida</school>
+<email>jterracina@ufl.edu</email>
+<bio>
+John Terracina is a software engineer working with the Learn Dialogue group. He studied Physics at Louisiana State University and Material Science Engineering at Georgia Tech with an emphasis on computer based simulation at both. He has over a decade of experience in the private sector as a software engineer. 
+</bio>
+
+<degrees>
+<degree>
+<abbrev>B.S.</abbrev>
+<subject>Physics</subject>
+<graduation>2007</graduation>
+<school>Louisiana State University</school>
+</degree>
+</degrees>
+</xml>
