@@ -114,7 +114,7 @@
 				<br>University of Florida</p>
 			</a></li>
 			
-			<li><a href="person.php?id=terracina">
+			<li><a href="person.php?id=johnterracina">
 				<img class="people_img"
 				src="people/johnterracina.jpg"
 				alt="John Terracina">
