@@ -271,7 +271,18 @@
 
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
-		
+
+			<li><a href="person.php?id=maya">
+				<img class="people_img"
+				src="people/maya.jpg"
+				alt="Maya Kushnick">
+				<p class="people_txt"><span class="people_name">Maya Kushnick<br></span>
+					Undergraduate Researcher
+				<br>Health and Human Performance
+				<br>University of Florida</p>
+	     	</a></li>
+
+			
 	<!--	
 		<li><a href="person.php?id=john">
                 <img class="people_img"
