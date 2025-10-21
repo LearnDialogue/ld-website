@@ -52,6 +52,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+
+			<li><a href="person.php?id=kwangmin">
+				<img class="people_img"
+				src="people/kwangmin.png"
+				alt="Kwangmin Kim">
+				<p class="people_txt"><span class="people_name">Kwangmin Kim<br></span>
+					Application Programmer
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
 <!--
 			<li><a href="person.php?id=sunny">
 				<img class="people_img"
