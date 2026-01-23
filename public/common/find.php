@@ -122,8 +122,8 @@ function hasPublication($userID) {
 		"tomisin",
 		"noah",
 		"johnterracina",
-		"kwangmin",
-		"maya"
+		"kwangmin"
+		
 
 	);
 
