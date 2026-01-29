@@ -52,6 +52,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
+
+			<li><a href="person.php?id=kwangmin">
+				<img class="people_img"
+				src="people/kwangmin.png"
+				alt="Kwangmin Kim">
+				<p class="people_txt"><span class="people_name">Kwangmin Kim<br></span>
+					Application Programmer
+				<br>Computer Science
+				<br>University of Florida</p>
+	     	</a></li>
 <!--
 			<li><a href="person.php?id=sunny">
 				<img class="people_img"
@@ -74,7 +84,8 @@
                 <br>University of Florida</p>
             </a></li>
 -->			
-		 	<li><a href="person.php?id=lincoln">
+<!--		 	
+			<li><a href="person.php?id=lincoln">
                 <img class="people_img"
                 src="people/lincoln.jpg"
                 alt="Lincoln Lu">
@@ -83,6 +94,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li> 
+-->			
             <!--
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
@@ -114,7 +126,7 @@
 				<br>University of Florida</p>
 			</a></li>
 			
-			<li><a href="person.php?id=terracina">
+			<li><a href="person.php?id=johnterracina">
 				<img class="people_img"
 				src="people/johnterracina.jpg"
 				alt="John Terracina">
@@ -259,7 +271,18 @@
 
 		<!-- Undergraduate Students-->
 		<ul class="people_list">
-		
+<!--
+			<li><a href="person.php?id=maya">
+				<img class="people_img"
+				src="people/maya.jpg"
+				alt="Maya Kushnick">
+				<p class="people_txt"><span class="people_name">Maya Kushnick<br></span>
+					Undergraduate Researcher
+				<br>Health and Human Performance
+				<br>University of Florida</p>
+	     	</a></li>
+-->
+			
 	<!--	
 		<li><a href="person.php?id=john">
                 <img class="people_img"
