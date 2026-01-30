@@ -63,6 +63,17 @@
 
 			<li>
 				
+				<a href="project.php?id=PedalFlorida">
+				
+				<img src="projects/PedalFlorida.png" alt="PedalFlorida">
+				<span class"thumb_txt"><h3>Pedal Florida</h3>
+				An Initiative to Increase Physical Activity in Cancer Survivors
+			</a>
+			
+			</li>
+					
+			<li>
+				
 				<a href="project.php?id=CollabSport">
 				
 				<img src="projects/CollabSport.png" alt="CollabSport">
