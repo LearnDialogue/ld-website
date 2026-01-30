@@ -1,0 +1,18 @@
+<xml>
+	<name>DuoMotion</name>
+	<sort_id>1</sort_id>
+	<tagline>Fostering Collaborative Parent-Child Physical Activity through a Novel AI-Powered App (NIH 1R21HD117302-01) </tagline>
+	<description>
+	&lt;p&gt;&lt;h4&gt;Project Introduction&lt;/h4&gt;
+	&lt;p&gt;Most Americans get insufficient moderate-to-vigorous physical activity (MVPA) across their lifespan. Family-based MVPA promotion interventions hold great promise for supporting behavior change toward more MVPA in pre-adolescent children (9-12 years old). One promising yet underexplored approach to facilitating family engagement in MVPA is to leverage mobile technology in concert with collaboration for support and motivation. Thus, this proposal addresses a novel goal: providing comprehensive support for collaborative MVPA before, during, and after the activity. Methods to facilitate effective collaboration have been studied among adults but not with families or children. This project addresses that gap.&lt;p&gt;
+
+
+	&lt;p&gt;&lt;h4&gt;Project Description&lt;/h4&gt;
+	&lt;p&gt;
+Toward the goal of supporting collaborative MVPA, we are developing a novel suite of apps to display key data including HR zones for facilitating MVPA collaboration between parents and children. We are also developing a conversational AI chat interface to support parents and children in achieving their goals. Together, the real-time app for collaborative MVPA and the AI chat interface for planning and reflection will constitute a novel system, DuoMotion.
+
+
+This project is refining and investigating the benefits of the DuoMotion system, to demonstrate the ways in which it supports parent-child dyads in pre-MVPA goal setting, collaborative real-time MVPA, and post-MVPA reflection. Using smartwatch data, personalized family goal setting, real-time data, and interactive AI chat, the FamilyCollab system will support collaborative MVPA and achievement of the MVPA recommendations for parents and children. 
+&lt;p&gt;
+	</description>
+</xml>
