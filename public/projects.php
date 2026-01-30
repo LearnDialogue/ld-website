@@ -71,6 +71,18 @@
 			</a>
 			
 			</li>
+
+
+			<li>
+				
+				<a href="project.php?id=DuoMotion">
+				
+				<img src="projects/DuoMotion.png" alt="DuoMotion">
+				<span class"thumb_txt"><h3>DuoMotion</h3>
+				Fostering Collaborative Parent-Child Physical Activity through a Novel AI-Powered App (NIH 1R21HD117302-01)
+			</a>
+			
+			</li>
 					
 			<li>
 				
