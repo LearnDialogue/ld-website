@@ -83,7 +83,8 @@
 			</a>
 			
 			</li>
-					
+
+		<!--			
 			<li>
 				
 				<a href="project.php?id=CollabSport">
@@ -94,7 +95,8 @@
 			</a>
 			
 			</li>
-			
+
+		-->			
 			<li>
 				
 				<a href="project.php?id=CampDIALOGS">
