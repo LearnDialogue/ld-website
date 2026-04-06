@@ -33,7 +33,7 @@
 
 		<!-- Staff -->
 		<ul class="people_list">
-		
+
 			<!-- <li><a href="person.php?id=maedeh">
 				<img class="people_img"
 				src="people/maedeh.jpg"
@@ -43,7 +43,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li> -->
-			
+
 			<li><a href="person.php?id=timothy">
 				<img class="people_img"
 				src="people/timothy.jpg"
@@ -72,8 +72,8 @@
 					Senior Software Engineer
 				<br>Computer Science
 				<br>University of Florida</p>
-	     	</a></li>	
--->			
+	     	</a></li>
+-->
 <!--
 		    <li><a href="person.php?id=mcelepk">
                 <img class="people_img"
@@ -84,8 +84,8 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
--->			
-<!--		 	
+-->
+<!--
 			<li><a href="person.php?id=lincoln">
                 <img class="people_img"
                 src="people/lincoln.jpg"
@@ -94,8 +94,8 @@
                 Research Scientist
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li> 
--->			
+            </a></li>
+-->
             <!--
 			<li><a href="person.php?id=nick">
 				<img class="people_img"
@@ -126,7 +126,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 			</a></li>
-			
+
 			<li><a href="person.php?id=johnterracina">
 				<img class="people_img"
 				src="people/johnterracina.jpg"
@@ -137,8 +137,8 @@
 				<br>University of Florida</p>
 			</a></li>
 
-			
-		<!--	
+
+		<!--
 			<li><a href="person.php?id=lydia">
 				<img class="people_img"
 				src="people/lydia.jpeg"
@@ -149,7 +149,7 @@
 				<br>University of Florida</p>
 			</a></li>
 		-->
-			
+
 		<!--
 			<li><a href="person.php?id=jbwiggi3">
 				<img class="people_img"
@@ -169,7 +169,7 @@
 		<!-- Graduate Students ordered by degree: PhD candidate, PhD student, Master's students-->
 		<ul class="people_list">
 
-	<!-- 		
+	<!--
     	<li><a href="person.php?id=xiaoyi">
 				<img class="people_img"
 				src="people/xiaoyi.JPG"
@@ -179,7 +179,7 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 	     	</a></li>
-			
+
 <li><a href="person.php?id=amanda">
 				<img class="people_img"
 				src="people/amanda.JPG"
@@ -190,7 +190,7 @@
 				<br>University of Florida</p>
 			</a></li>
 -->
-			
+
 <li><a href="person.php?id=amannekote">
                 <img class="people_img"
                 src="people/amannekote.jpg"
@@ -210,7 +210,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
-			
+
 		<li><a href="person.php?id=mollie">
             	<img class="people_img"
                 src="people/mollie.jpeg"
@@ -220,7 +220,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
                 </a></li>
-	
+
 		<li><a href="person.php?id=tomisin">
             	<img class="people_img"
                 src="people/tomisin.jpg"
@@ -249,11 +249,11 @@
                 <p class="people_txt"><span class="people_name">Wesly Ménard<br></span>
                 Ph.D. Student
                 <br>Human-Centered Computing
-                <br>University of Florida</p>				
+                <br>University of Florida</p>
             </a></li>
 
-				
-		<!--	
+
+		<!--
 		<li><a href="person.php?id=amit">
 				<img class="people_img"
 				src="people/amit.jpg"
@@ -263,15 +263,16 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
-		-->	
-			
+		-->
+
 		</ul>
 
         <p class="clear">&nbsp;</p>
 		<p class="clear">&nbsp;</p>
 
 		<!-- Undergraduate Students-->
-		<ul class="people_list">
+	<!--	<ul class="people_list">
+-->
 <!--
 			<li><a href="person.php?id=maya">
 				<img class="people_img"
@@ -283,8 +284,8 @@
 				<br>University of Florida</p>
 	     	</a></li>
 -->
-			
-	<!--	
+
+	<!--
 		<li><a href="person.php?id=john">
                 <img class="people_img"
                 src="people/john.jpg"
@@ -293,8 +294,8 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li>		
-			
+            </a></li>
+
 		<li><a href="person.php?id=sunjay">
                 <img class="people_img"
                 src="people/sunjay.png"
@@ -303,8 +304,8 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li>		
-	
+            </a></li>
+
 	<li><a href="person.php?id=aagarwal">
                 <img class="people_img"
                 src="people/aagarwal.jpeg"
@@ -313,8 +314,8 @@
                 B.S. Student
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
-            </a></li> 
-			
+            </a></li>
+
 	<li><a href="person.php?id=abe">
                 <img class="people_img"
                 src="people/abe.jpg"
@@ -323,9 +324,9 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li> 
-	
-			
+            </a></li>
+
+
 	<li><a href="person.php?id=carly">
                 <img class="people_img"
                 src="people/carly.jpg"
@@ -345,9 +346,9 @@
                 B.S. Student
                 <br>Computer Science
                 <br>University of Florida</p>
-            </a></li> 
-			
-		
+            </a></li>
+
+
 			<li><a href="person.php?id=alexj">
 				<img class="people_img"
 				src="people/alexj.jpeg"
@@ -356,7 +357,7 @@
 				B.S. Student
 				<br>Computer Science
 				<br>University of Florida</p>
-	     	</a></li>	
+	     	</a></li>
 
 
 		<li><a href="person.php?id=nandika">
@@ -368,7 +369,7 @@
 				<br>Computer Science
 				<br>University of Florida</p>
 	     	</a></li>
-			
+
 		<li><a href="person.php?id=chandler">
 				<img class="people_img"
 				src="people/chandler.jpg"
@@ -390,7 +391,7 @@
 			<tr><td>Eun Young Ha</td><td>Postdoctoral Research Associate, 2012-2014</td><td>North Carolina State University</td></tr>
 			<tr><td></td></tr>
 			<tr><td></td></tr>
-			<tr><td>Yingbo Ma</td><td>Ph.D., 2023 - <a href="https://www.proquest.com/docview/2925355289?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses.">Dissertation</a> </td><td >University of Florida</td></tr> 
+			<tr><td>Yingbo Ma</td><td>Ph.D., 2023 - <a href="https://www.proquest.com/docview/2925355289?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses.">Dissertation</a> </td><td >University of Florida</td></tr>
 			<tr><td>Kimberly M. Ying</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
 			<tr><td>Fernando J. Rodríguez</td><td>Ph.D., 2021 - <a href="https://ufdc.ufl.edu/UFE0057941/00001">Dissertation</a></td><td>University of Florida</td></tr>
 			<tr><td>Joseph B. Wiggins</td><td>Ph.D., 2021 </td><td>University of Florida</td></tr>
