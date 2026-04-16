@@ -104,3 +104,9 @@ div.bibentry-document-link {
 	padding-top: 10px;
 	margin-bottom: 0px;
 }
+
+div.poweredby {
+	margin-top: 20px;
+	font-size: 80%;
+	color: #333;
+}

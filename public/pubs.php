@@ -36,7 +36,7 @@ $_GET['author'] = bibtexAuthorString("keboyer");
 include('pubs/bibtexbrowser.php');
 ?>
 
-<div style="text-align:right;font-size: xx-small;opacity: 0.6;" class="poweredby"><!-- If you like bibtexbrowser, thanks to keep the link :-) -->powered by <a href="http://www.monperrus.net/martin/bibtexbrowser/">bibtexbrowser</a><!--v20130328--></div>
+<div style="text-align:right;font-size: xx-small;" class="poweredby"><!-- If you like bibtexbrowser, thanks to keep the link :-) -->powered by <a href="http://www.monperrus.net/martin/bibtexbrowser/">bibtexbrowser</a><!--v20130328--></div>
 
 <?php include 'common/footer.html'; ?>
 </body>
