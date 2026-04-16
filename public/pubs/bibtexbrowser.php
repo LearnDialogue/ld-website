@@ -2441,7 +2441,7 @@ class SimpleDisplay  {
   function sectionHeader($bib) {
     switch(BIBTEXBROWSER_LAYOUT) { 
       case 'table':
-        return '<tr><td colspan="2" class="'.$this->headerCSS.'">'.$bib->getYear().'</td></tr>'."\n";
+        return '';//'<tr><td colspan="2" class="'.$this->headerCSS.'">'.$bib->getYear().'</td></tr>'."\n";
         break;
       case 'definition':
         return '<div class="'.$this->headerCSS.'">'.$bib->getYear().'</div>'."\n";
@@ -2503,11 +2503,12 @@ class AcademicDisplay  {
     $entries = $this->db->multisearch($query);
     if (count($entries)>0) {
       echo "\n".'<div class="sheader">'.$title.'</div>'."\n";
+    
+      $display = createBasicDisplay();
+      $display->setEntries($entries);
+      $display->headerCSS = 'theader';
+      $display->display();
     }
-    $display = createBasicDisplay();
-    $display->setEntries($entries);
-    $display->headerCSS = 'theader';
-    $display->display();
     
   }
   
