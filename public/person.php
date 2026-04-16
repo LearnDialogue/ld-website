@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<?php include 'common/head.html'; ?>
 	<link rel="stylesheet" href="css/people.css">
@@ -26,7 +26,7 @@
 	$user = $_SERVER['WRAP_USERID'];
 ?>
 
-	<img class="people_img" src="<?php echo $pic; ?>" />
+	<img class="people_img" alt="<?php echo $name; ?>" src="<?php echo $pic; ?>" />
 	<div class="top">
 		<h2><?php echo $name; ?></h2>
 		<!--<h2><?php echo $userID . " " . $user; ?></h2>-->
