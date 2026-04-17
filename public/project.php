@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<?php include 'common/head.html'; ?>
 	<link rel="stylesheet" href="css/pubs.css">
@@ -20,7 +20,7 @@
 ?>
 
 
-	<a href = "<?php echo $pic; ?>"> <img class="project_img" src="<?php echo $pic; ?>" /> </a>
+	<a href = "<?php echo $pic; ?>"> <img class="project_img" alt="<?php echo $xml->name; ?> project image" src="<?php echo $pic; ?>" /> </a>
 	<div class="top">
 		<h2><?php echo $xml->name; ?></h2>
 		<p><?php echo $xml->tagline; ?></p>
