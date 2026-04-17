@@ -21,7 +21,7 @@
 				<a href="project.php?id=INVITE">
 				
 				<img src="projects/INVITE.png" alt="INVITE">
-				<span class"thumb_txt"><h3>INVITE Institute - Inclusive Intelligent Technologies for Education</h3>
+				<span class="thumb_txt"><h3>INVITE Institute - Inclusive Intelligent Technologies for Education</h3>
 					The INVITE Institute (INclusiVe Intelligent Technologies for Education) seeks to fundamentally reframe how AI-based educational technologies interact with learners.
 			</a>
 			
@@ -44,7 +44,7 @@
 				<a href="project.php?id=AI-EmpoweredAthlete">
 				
 				<img src="projects/AI-EmpoweredAthlete.png" alt="AI-EmpoweredAthletics">
-				<span class"thumb_txt"><h3>AI-Powered Athletics</h3>
+				<span class="thumb_txt"><h3>AI-Powered Athletics</h3>
 					Supporting student-athlete wellness and performance using data and AI
 			</a>
 			
@@ -55,7 +55,7 @@
 				<a href="project.php?id=PedalFlorida">
 				
 				<img src="projects/PedalFlorida.png" alt="PedalFlorida">
-				<span class"thumb_txt"><h3>Pedal Florida</h3>
+				<span class="thumb_txt"><h3>Pedal Florida</h3>
 				An Initiative to Increase Physical Activity in Cancer Survivors
 			</a>
 			
@@ -67,7 +67,7 @@
 				<a href="project.php?id=DuoMotion">
 				
 				<img src="projects/DuoMotion.png" alt="DuoMotion">
-				<span class"thumb_txt"><h3>DuoMotion</h3>
+				<span class="thumb_txt"><h3>DuoMotion</h3>
 				Fostering Collaborative Parent-Child Physical Activity through a Novel AI-Powered App (NIH 1R21HD117302-01)
 			</a>
 			
@@ -92,7 +92,7 @@
 				<a href="project.php?id=IntegrateAI">
 				
 				<img src="projects/IntegrateAI.png" alt="IntegrateAI">
-				<span class"thumb_txt"><h3>IntegrateAI</h3>
+				<span class="thumb_txt"><h3>IntegrateAI</h3>
 					Integrating AI Learning into Middle School Science through Natural Language Processing (Funding: National Science Foundation NSF 19-583, DRL-2147810)
 			</a>
 			
@@ -103,7 +103,7 @@
 				<a href="project.php?id=CampDIALOGS">
 				
 				<img src="projects/CampDIALOGS.png" alt="Project DIALOGS">
-				<span class"thumb_txt"><h3>Project DIALOGS</h3>
+				<span class="thumb_txt"><h3>Project DIALOGS</h3>
 					Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences (Funding: National Science Foundation, DRL-2048480)
 			</a>
 			
@@ -118,7 +118,7 @@
 				<a href="project.php?id=earsketch">
 				
 				<img src="projects/earsketch.png" alt="earsketch">
-				<span class"thumb_txt"><h3>EarSketch CAI</h3>
+				<span class="thumb_txt"><h3>EarSketch CAI</h3>
 					Engaging high school students in computer science with co-creative learning companions. (Funding: National Science Foundation, DRL-1814083)
 			</a>
 			
@@ -130,7 +130,7 @@
 				<a href="project.php?id=flecks">
 				
 				<img src="projects/flecks.png" alt="flecks">
-				<span class"thumb_txt"><h3>FLECKS</h3>
+				<span class="thumb_txt"><h3>FLECKS</h3>
 					Fostering collaborative computer science learning with intelligent virtual companions for upper elementary students. (Funding: National Science Foundation, DRL-1721160)
 			</a>
 			
@@ -141,7 +141,7 @@
 				<a href="project.php?id=CUE">
 				
 				<img src="projects/CUE.png" alt="CUE">
-				<span class"thumb_txt"><h3>CUE</h3>
+				<span class="thumb_txt"><h3>CUE</h3>
 					Collaborative Research: Effective Peer Teaching Across Computing Pathways (National Science Foundation, DUE-1935111)
 			</a>
 			
@@ -152,7 +152,7 @@
 				<a href="project.php?id=cs-climate">
 				
 				<img src="projects/cs-climate.png" alt="cs climate">
-				<span class"thumb_txt"><h3>CS-CLIMATE</h3>
+				<span class="thumb_txt"><h3>CS-CLIMATE</h3>
 					Fostering collaborative dialogue for rigorous learning and diverse student retention in computer science. (Funding: National Science Foundation, CNS-1453520, CNS-1622438)
 			
 			</a>
@@ -164,7 +164,7 @@
 				<a href="project.php?id=prime">
 				
 				<img src="projects/prime.png" alt="prime">
-				<span class"thumb_txt"><h3>PRIME</h3>
+				<span class="thumb_txt"><h3>PRIME</h3>
 					Engaging STEM undergraduate students in computer science with intelligent tutoring systems. (Funding: National Science Foundation, DUE-1626235, DUE-1625908)
 			</a>
 			
