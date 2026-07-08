@@ -210,7 +210,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
             </a></li>
-
+<!--
 		<li><a href="person.php?id=mollie">
             	<img class="people_img"
                 src="people/mollie.jpeg"
@@ -220,7 +220,7 @@
                 <br>Human-Centered Computing
                 <br>University of Florida</p>
                 </a></li>
-
+-->
 		<li><a href="person.php?id=tomisin">
             	<img class="people_img"
                 src="people/tomisin.jpg"
