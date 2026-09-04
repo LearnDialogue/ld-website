@@ -1,0 +1,25 @@
+<xml>
+<names>
+<name>Mary Ennis</name>
+<name>Mary E. Ennis</name>
+<name>Mary Elizabeth Ennis</name>
+<name>Mary “Libby” Ennis</name>
+</names>
+<sort_name>Cui</sort_name>
+<position>Student Research Assistant</position>
+<program>Computer Engineering</program>
+<school>University of Florida</school>
+<email>ennis.m@ufl.edu</email>
+<bio>
+Mary Ennis is an undergraduate student at the University of Florida, studying Computer Engineering. She is working in the INVITE AI Institute to integrate theoretical principles from learning sciences into AI for K-12 education. Her prior research explored the socioemotional impacts of collaborative peer learning on college students in large lecture science classrooms, and now she seeks to improve student learning at the intersection of learning sciences and computer science. 
+</bio>
+<degrees>
+  <degree>
+<!--Abbreviations are B.S., B.A., M.S., etc-->
+    <abbrev>B.S.</abbrev>
+    <subject>Computer Engineering</subject>
+    <graduation>2028</graduation>
+    <school>University of Florida</school>
+  </degree>
+</degrees>
+</xml>
