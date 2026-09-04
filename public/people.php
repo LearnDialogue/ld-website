@@ -286,7 +286,7 @@
 
 	<li><a href="person.php?id=mary">
 				<img class="people_img"
-				src="people/mary.jpg"
+				src="people/mary.JPG"
 				alt="Mary Ennis">
 				<p class="people_txt"><span class="people_name">Mary Ennis<br></span>
 					Student Research Assistant
