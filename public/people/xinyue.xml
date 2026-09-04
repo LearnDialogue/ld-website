@@ -1,0 +1,36 @@
+<xml>
+<names>
+<name>Xinyue Cui</name>
+</names>
+<sort_name>Cui</sort_name>
+<position>Ph.D. Student</position>
+<program>Human-Centered Computing</program>
+<school>University of Florida</school>
+<email>cuixinyue@ufl.edu</email>
+<bio>
+Xinyue is a Ph.D. student in Human-Centered Computing advised by Dr. Kristy Boyer, and will work with the INVITE project.
+</bio>
+<degrees>
+  <degree>
+<!--Abbreviations are B.S., B.A., M.S., etc-->
+    <abbrev>B.S.</abbrev>
+    <subject>Digital Media Art</subject>
+    <graduation>2023</graduation>
+    <school>Communication University of China</school>
+  </degree>
+
+  <degree>
+   <abbrev>MSed</abbrev>
+   <subject>Learning Sciences and Technologies</subject>
+   <graduation>2026</graduation>
+   <school>University of Pennsylvania</school>
+  </degree>
+
+   <degree>
+   <abbrev>Ph.D.</abbrev>
+   <subject>Human Centered Computing</subject>
+   <graduation>Expected 2028</graduation>
+   <school>University of Florida</school>
+  </degree>
+</degrees>
+</xml>
