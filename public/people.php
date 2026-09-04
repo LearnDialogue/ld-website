@@ -283,6 +283,17 @@
 		<!-- Undergraduate Students-->
 	<!--	<ul class="people_list">
 -->
+
+	<li><a href="person.php?id=mary">
+				<img class="people_img"
+				src="people/mary.jpg"
+				alt="Mary Ennis">
+				<p class="people_txt"><span class="people_name">Mary Ennis<br></span>
+					Student Research Assistant
+				<br>Computer Engineering
+				<br>University of Florida</p>
+	     	</a></li>
+	
 <!--
 			<li><a href="person.php?id=maya">
 				<img class="people_img"
