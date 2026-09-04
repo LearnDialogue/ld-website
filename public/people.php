@@ -189,7 +189,6 @@
 				<br>Human-Centered Computing
 				<br>University of Florida</p>
 			</a></li>
--->
 
 <li><a href="person.php?id=amannekote">
                 <img class="people_img"
@@ -200,7 +199,7 @@
                 <br>Computer Science
                 <br>University of Florida</p>
             </a></li>
-
+-->
 	<li><a href="person.php?id=toni">
                 <img class="people_img"
                 src="people/toni.jpeg"
