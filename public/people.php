@@ -241,6 +241,17 @@
                 <br>University of Florida</p>
             </a></li>
 -->
+			<li><a href="person.php?id=xinyue">
+                <img class="people_img"
+                src="people/xinyue.jpg"
+                alt="Xinyue Cui">
+                <p class="people_txt"><span class="people_name">Xinyue Cui<br></span>
+                Ph.D. Student
+                <br>Human-Centered Computing
+                <br>University of Florida</p>
+            </a></li>
+			
+			
 			<li><a href="person.php?id=wesly">
                 <img class="people_img"
                 src="people/wesly.jpg"
