@@ -122,9 +122,9 @@ function hasPublication($userID) {
 		"tomisin",
 		"noah",
 		"johnterracina",
-		"kwangmin"
-		
-
+		"kwangmin",
+		"xinyue",
+		"mary"
 	);
 
 	foreach($pubNames as $pubName){
