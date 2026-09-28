@@ -406,7 +406,7 @@
 
 		<h2>alumni</h2>
 		<table class="alumni_list">
-			<tr><td>Amogh Mannekote</td><td>Ph.D., 2026</td><td>University of Florida</td></tr>
+			<tr><td>Amogh Mannekote</td><td>Ph.D., 2026 - <a href="pdf/AMannekote_Dissertation_2026.pdf">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Amanda E. Griffith</td><td>Ph.D., 2025</td><td>University of Florida</td></tr>
 			<tr><td>Xiaoyi Tian</td><td>Ph.D., 2024 - <a href="https://txiaoyi.com/files/PhD_Dissertation_Xiaoyi_Tian.pdf">Dissertation</a> </td><td>University of Florida</td></tr>
 			<tr><td>Gloria Katuka</td><td>Ph.D., 2024</td><td>University of Florida</td></tr>
